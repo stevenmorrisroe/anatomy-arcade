@@ -1,0 +1,521 @@
+{
+ "series": "Thorax 1 · Regional & Breast",
+ "model": "thorax1-breast",
+ "accent": "#c77dff",
+ "questions": [
+  {
+   "q": "Which pin marks the sternal angle, where the 2nd costal cartilage articulates?",
+   "options": [
+    "Jugular notch",
+    "Xiphoid process",
+    "Sternal angle",
+    "Body of sternum"
+   ],
+   "answer": 2,
+   "explain": "The sternal angle (manubrium meets body) is the site of the 2nd costal cartilage, the carina and the start of the aortic arch.",
+   "focus": [
+    "sangle"
+   ],
+   "turn": -18,
+   "pins": [
+    "jnotch",
+    "xiph",
+    "sangle",
+    "sbody"
+   ],
+   "pages": [
+    4,
+    5
+   ]
+  },
+  {
+   "q": "A trauma patient has a tension pneumothorax. Which landmark is the site for needle decompression?",
+   "options": [
+    "5th intercostal space",
+    "2nd intercostal space",
+    "8th intercostal space",
+    "Suprasternal notch"
+   ],
+   "answer": 1,
+   "explain": "The 2nd ICS, found by counting from the sternal angle, is the site for needle decompression (slide p5).",
+   "focus": [
+    "sangle",
+    "rib2"
+   ],
+   "turn": -18,
+   "pages": [
+    5
+   ]
+  },
+  {
+   "q": "Which pin marks the ribs that have no attachment to the sternum?",
+   "options": [
+    "True ribs 1-7",
+    "False ribs 8-10",
+    "Costal cartilages 1-7",
+    "Floating ribs 11-12"
+   ],
+   "answer": 3,
+   "explain": "Ribs 11 and 12 are floating: no sternal attachment.",
+   "focus": [
+    "ribfl"
+   ],
+   "turn": 72,
+   "pins": [
+    "ribt",
+    "ribf",
+    "cartt",
+    "ribfl"
+   ],
+   "pages": [
+    12,
+    17
+   ]
+  },
+  {
+   "q": "Which structure lies lowest in the costal groove?",
+   "options": [
+    "Intercostal vein",
+    "Intercostal artery",
+    "Intercostal nerve",
+    "External intercostal muscle"
+   ],
+   "answer": 2,
+   "explain": "From top to bottom the order is vein, artery, nerve (VAN).",
+   "focus": [
+    "icn"
+   ],
+   "turn": 72,
+   "pages": [
+    13
+   ]
+  },
+  {
+   "q": "Before thoracentesis you place the needle just above the rib below the space. Why?",
+   "options": [
+    "The bundle runs along the lower border of the rib above",
+    "The bundle runs along the upper border of the rib below",
+    "The rib below is the thinnest",
+    "Muscle is thinnest there"
+   ],
+   "answer": 0,
+   "explain": "The neurovascular bundle runs in the costal groove on the inferior border of each rib, so stay over the rib.",
+   "focus": [
+    "icv",
+    "ica",
+    "icn"
+   ],
+   "turn": 72,
+   "pages": [
+    13
+   ]
+  },
+  {
+   "q": "The nipple line marks which dermatome?",
+   "options": [
+    "T2",
+    "T4",
+    "T6",
+    "T10"
+   ],
+   "answer": 1,
+   "explain": "Nipple line = T4 dermatome. The slides (p4) say it commonly corresponds with the 5th ICS and the point of maximal impulse (PMI); textbooks often put the male nipple at the 4th ICS, but T4 dermatome is the fixed answer.",
+   "focus": [
+    "ics5"
+   ],
+   "turn": 72,
+   "pages": [
+    4
+   ]
+  },
+  {
+   "q": "Which thoracic dimension does contraction of the diaphragm increase?",
+   "options": [
+    "Vertical",
+    "Anteroposterior",
+    "Transverse",
+    "None; it only moves the sternum"
+   ],
+   "answer": 0,
+   "explain": "The diaphragm increases the vertical dimension; external intercostals widen anteroposterior and transverse dimensions.",
+   "focus": [
+    "dia_r",
+    "dia_l"
+   ],
+   "turn": -18,
+   "pages": [
+    14
+   ]
+  },
+  {
+   "q": "During quiet breathing at rest, expiration is mainly:",
+   "options": [
+    "Active contraction of the diaphragm",
+    "Passive relaxation and elastic recoil",
+    "Contraction of the external intercostals",
+    "Contraction of transversus abdominis only"
+   ],
+   "answer": 1,
+   "explain": "Resting expiration is passive: relaxation and elastic recoil.",
+   "focus": [
+    "dia_r",
+    "dia_l"
+   ],
+   "turn": -18,
+   "pages": [
+    14
+   ]
+  },
+  {
+   "q": "Which mediastinal division spans T5 to T12 and is split by the pericardium?",
+   "options": [
+    "Superior mediastinum",
+    "Inferior mediastinum",
+    "Retrosternal space",
+    "Pleural cavity"
+   ],
+   "answer": 1,
+   "explain": "Superior is T1-T4; inferior is T5-T12 (anterior, middle, posterior).",
+   "focus": [
+    "splane"
+   ],
+   "turn": -18,
+   "pages": [
+    22
+   ]
+  },
+  {
+   "q": "Which pin marks the thymus, in the anterior mediastinum?",
+   "options": [
+    "Thymus",
+    "Heart",
+    "Trachea",
+    "Esophagus"
+   ],
+   "answer": 0,
+   "explain": "The thymus (T-cell maturation) lies in the anterior mediastinum and atrophies in adults.",
+   "focus": [
+    "thymus"
+   ],
+   "turn": -18,
+   "pins": [
+    "thymus",
+    "heart",
+    "trachea",
+    "eso"
+   ],
+   "pages": [
+    25,
+    26
+   ]
+  },
+  {
+   "q": "A patient with myasthenia gravis needs imaging of the anterior mediastinum. Which organ is the concern?",
+   "options": [
+    "Thymus",
+    "Esophagus",
+    "Thoracic duct",
+    "Azygos vein"
+   ],
+   "answer": 0,
+   "explain": "The thymus lies in the anterior mediastinum (slide p25 notes myasthenia gravis).",
+   "focus": [
+    "thymus"
+   ],
+   "turn": -18,
+   "pages": [
+    25
+   ]
+  },
+  {
+   "q": "Which pin marks the opening of the diaphragm at T8?",
+   "options": [
+    "Caval opening",
+    "Esophageal hiatus",
+    "Aortic hiatus",
+    "Right crus"
+   ],
+   "answer": 0,
+   "explain": "Caval opening T8 (IVC), esophageal hiatus T10, aortic hiatus T12.",
+   "focus": [
+    "h_caval"
+   ],
+   "turn": 162,
+   "pins": [
+    "h_caval",
+    "h_eso",
+    "h_aort",
+    "crus_r"
+   ],
+   "pages": [
+    44
+   ]
+  },
+  {
+   "q": "Which structure passes through the diaphragm at T10?",
+   "options": [
+    "Inferior vena cava",
+    "Esophagus",
+    "Aorta",
+    "Thoracic duct only"
+   ],
+   "answer": 1,
+   "explain": "Esophageal hiatus is at T10; the IVC is at T8 and the aorta at T12.",
+   "focus": [
+    "h_eso"
+   ],
+   "turn": 162,
+   "pages": [
+    44
+   ]
+  },
+  {
+   "q": "Which nerves give motor supply to the diaphragm?",
+   "options": [
+    "Intercostal nerves",
+    "Subcostal nerves",
+    "Phrenic nerves C3 to C5",
+    "Vagus nerves"
+   ],
+   "answer": 2,
+   "explain": "Motor supply is the L and R phrenic nerves (C3-C5); sensory is phrenic, intercostal and subcostal.",
+   "focus": [
+    "phrenic",
+    "dia_r",
+    "dia_l"
+   ],
+   "turn": -18,
+   "pages": [
+    45
+   ]
+  },
+  {
+   "q": "The right hemidiaphragm compared with the left is:",
+   "options": [
+    "Higher",
+    "Lower",
+    "The same height",
+    "Absent anteriorly"
+   ],
+   "answer": 0,
+   "explain": "The right hemidiaphragm is higher than the left.",
+   "focus": [
+    "dia_r",
+    "dia_l"
+   ],
+   "turn": -18,
+   "pages": [
+    43
+   ]
+  },
+  {
+   "q": "Which pin marks the azygos vein?",
+   "options": [
+    "Azygos vein",
+    "Hemiazygos vein",
+    "Thoracic aorta",
+    "Thoracic duct"
+   ],
+   "answer": 0,
+   "explain": "The azygos vein ascends on the right of the vertebral column, loops over the right main bronchus and enters the SVC.",
+   "focus": [
+    "azygos"
+   ],
+   "turn": 162,
+   "pins": [
+    "azygos",
+    "hemiaz",
+    "aortaD",
+    "tduct"
+   ],
+   "pages": [
+    42
+   ]
+  },
+  {
+   "q": "Which vessels feed the posterior portions of the thoracic cage?",
+   "options": [
+    "Internal thoracic arteries",
+    "Branches of the descending thoracic aorta",
+    "Superior epigastric arteries",
+    "Lateral thoracic arteries"
+   ],
+   "answer": 1,
+   "explain": "Posterior intercostal arteries come off the descending thoracic aorta; anterior ones come from the internal thoracic arteries.",
+   "focus": [
+    "pia",
+    "ica"
+   ],
+   "turn": 72,
+   "pages": [
+    37
+   ]
+  },
+  {
+   "q": "The internal thoracic artery arises from the subclavian artery and, below the ribs, becomes the:",
+   "options": [
+    "Musculophrenic artery only",
+    "Superior epigastric artery",
+    "Inferior phrenic artery",
+    "Posterior intercostal artery"
+   ],
+   "answer": 1,
+   "explain": "The internal thoracic artery descends to become the superior epigastric artery, feeding the anterior abdominal wall.",
+   "focus": [
+    "ita",
+    "sea"
+   ],
+   "turn": -18,
+   "pages": [
+    37
+   ]
+  },
+  {
+   "q": "Which pin marks the lactiferous sinus?",
+   "options": [
+    "Lobule",
+    "Lactiferous duct",
+    "Lactiferous sinus",
+    "Nipple"
+   ],
+   "answer": 2,
+   "explain": "Gland lobule, then lactiferous duct, then lactiferous sinus, then nipple.",
+   "focus": [
+    "sinus"
+   ],
+   "turn": -45,
+   "pins": [
+    "lobules",
+    "ducts",
+    "sinus",
+    "nipple"
+   ],
+   "pages": [
+    54,
+    55
+   ]
+  },
+  {
+   "q": "Which structures connect the mammary gland to the overlying dermis?",
+   "options": [
+    "Suspensory (Cooper's) ligaments",
+    "Montgomery glands",
+    "Lactiferous sinuses",
+    "Pectoral fascia"
+   ],
+   "answer": 0,
+   "explain": "Suspensory ligaments (Cooper's) connect the gland to the dermis.",
+   "focus": [
+    "cooper"
+   ],
+   "turn": -45,
+   "pages": [
+    54
+   ]
+  },
+  {
+   "q": "About two thirds of the breast rests on:",
+   "options": [
+    "Serratus anterior fascia",
+    "The pectoral fascia over pectoralis major",
+    "The external oblique",
+    "The clavicle"
+   ],
+   "answer": 1,
+   "explain": "Two thirds lies on the pectoral fascia over pectoralis major; the remainder rests on serratus anterior.",
+   "focus": [
+    "breast",
+    "pecmaj"
+   ],
+   "turn": -60,
+   "pages": [
+    52
+   ]
+  },
+  {
+   "q": "Which pin marks the artery that supplies the greatest amount of blood to the breast?",
+   "options": [
+    "Medial mammary branch",
+    "Lateral thoracic artery",
+    "Internal thoracic artery",
+    "Superior epigastric artery"
+   ],
+   "answer": 1,
+   "explain": "Per the slides (p57), the lateral thoracic branch of the axillary artery supplies the greatest amount of blood. Some textbooks credit the internal thoracic artery with the larger share; answer with the slides on the exam.",
+   "focus": [
+    "lta"
+   ],
+   "turn": -45,
+   "pins": [
+    "mma",
+    "lta",
+    "ita",
+    "sea"
+   ],
+   "pages": [
+    57,
+    58
+   ]
+  },
+  {
+   "q": "Where does the majority of breast lymph drain?",
+   "options": [
+    "Parasternal nodes",
+    "Inguinal nodes",
+    "Axillary nodes",
+    "Cervical nodes only"
+   ],
+   "answer": 2,
+   "explain": "Most drains laterally to the axilla; a minority drains medially to parasternal nodes.",
+   "focus": [
+    "n_pect",
+    "n_sub",
+    "n_hum",
+    "n_cen",
+    "n_api"
+   ],
+   "turn": -45,
+   "pages": [
+    60,
+    61
+   ]
+  },
+  {
+   "q": "Lymph from the breast ends in clavicular nodes, then drains on the left into the:",
+   "options": [
+    "Right lymphatic duct",
+    "Thoracic duct",
+    "Azygos vein",
+    "Internal thoracic vein"
+   ],
+   "answer": 1,
+   "explain": "Right side: right lymphatic duct; left side: the thoracic duct.",
+   "focus": [
+    "tduct",
+    "rld",
+    "lymph"
+   ],
+   "turn": -45,
+   "pages": [
+    60
+   ]
+  },
+  {
+   "q": "A woman has winging of the scapula after axillary node dissection. Which nerve, running on serratus anterior, was injured?",
+   "options": [
+    "Long thoracic nerve",
+    "Phrenic nerve",
+    "Intercostal nerve",
+    "Vagus nerve"
+   ],
+   "answer": 0,
+   "explain": "The long thoracic nerve supplies serratus anterior (standard textbook; not on slides).",
+   "focus": [
+    "ltn",
+    "serratus"
+   ],
+   "turn": -60,
+   "pages": []
+  }
+ ]
+}

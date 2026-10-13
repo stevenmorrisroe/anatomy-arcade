@@ -1,0 +1,522 @@
+{
+ "series": "Neck 1 · Regional",
+ "model": "neck1-regional",
+ "accent": "#2ec4b6",
+ "questions": [
+  {
+   "q": "Which structure lies directly deep to the jugular notch?",
+   "options": [
+    "Trachea",
+    "Internal jugular vein",
+    "Subclavian artery",
+    "Hyoid bone"
+   ],
+   "answer": 0,
+   "explain": "Deep to the jugular notch is the trachea. The IJV and common carotid lie deep to the lesser supraclavicular fossa.",
+   "focus": [
+    "trachea",
+    "notch"
+   ],
+   "turn": -30,
+   "pages": [
+    7
+   ],
+   "pins": [
+    "trachea",
+    "ijv",
+    "lsa",
+    "hyoid"
+   ]
+  },
+  {
+   "q": "Which structure is the chemoreceptor stimulated by decreased pO2?",
+   "options": [
+    "Carotid sinus",
+    "Carotid body",
+    "Internal carotid artery",
+    "External carotid artery"
+   ],
+   "answer": 1,
+   "explain": "The carotid body, a mass near the sinus, is the chemoreceptor. The carotid sinus is the baroreceptor, stimulated by increased BP.",
+   "focus": [
+    "body"
+   ],
+   "turn": 40,
+   "pages": [
+    34,
+    35
+   ],
+   "pins": [
+    "sinus",
+    "body",
+    "ica",
+    "eca"
+   ]
+  },
+  {
+   "q": "Which vessel passes between the anterior and middle scalene with the brachial plexus?",
+   "options": [
+    "Subclavian artery",
+    "Subclavian vein",
+    "Internal jugular vein",
+    "Common carotid artery"
+   ],
+   "answer": 0,
+   "explain": "The brachial plexus and subclavian artery pass between the anterior and middle scalene. The subclavian vein runs anterior to the anterior scalene.",
+   "focus": [
+    "lsa",
+    "ascal",
+    "mscal",
+    "bp"
+   ],
+   "turn": 55,
+   "pages": [
+    20,
+    11
+   ],
+   "pins": [
+    "lsa",
+    "scv",
+    "ijv",
+    "lcca"
+   ]
+  },
+  {
+   "q": "Which vessel lies anterior to the anterior scalene muscle?",
+   "options": [
+    "Subclavian vein",
+    "Subclavian artery",
+    "Vertebral artery",
+    "Costocervical trunk"
+   ],
+   "answer": 0,
+   "explain": "The subclavian vein passes anterior to the anterior scalene. The subclavian artery passes behind it, posterosuperior to the vein.",
+   "focus": [
+    "scv",
+    "ascal"
+   ],
+   "turn": 60,
+   "pages": [
+    20,
+    10
+   ],
+   "pins": [
+    "scv",
+    "lsa",
+    "va",
+    "cct"
+   ]
+  },
+  {
+   "q": "Which muscle divides the anterior neck from the lateral (posterior triangle) region?",
+   "options": [
+    "Sternocleidomastoid",
+    "Sternohyoid",
+    "Sternothyroid"
+   ],
+   "answer": 0,
+   "explain": "The SCM forms the division point between the anterior and lateral regions. The trapezius forms the lateral-posterior border.",
+   "focus": [
+    "scm",
+    "scms",
+    "scmc"
+   ],
+   "turn": -70,
+   "pages": [
+    6
+   ],
+   "pins": [
+    "scm",
+    "sthy",
+    "stthy"
+   ]
+  },
+  {
+   "q": "Which vein crosses superficially over the SCM toward the angle of the mandible?",
+   "options": [
+    "External jugular vein",
+    "Anterior jugular vein",
+    "Internal jugular vein",
+    "Subclavian vein"
+   ],
+   "answer": 0,
+   "explain": "The EJV crosses directly over the SCM toward the angle of the mandible. The anterior jugular joins it through the communicating vein.",
+   "focus": [
+    "ejv"
+   ],
+   "turn": -75,
+   "pages": [
+    7,
+    39
+   ],
+   "pins": [
+    "ejv",
+    "ajv",
+    "ijv_r",
+    "scv_r"
+   ]
+  },
+  {
+   "q": "Which structure lies about 1 cm below the laryngeal prominence?",
+   "options": [
+    "Cricothyroid ligament",
+    "Hyoid bone",
+    "Jugular notch",
+    "Thyroid isthmus"
+   ],
+   "answer": 0,
+   "explain": "The cricothyroid ligament lies about 1 cm inferior to the laryngeal prominence. The larynx spans C3 to C6.",
+   "focus": [
+    "ctlig",
+    "thyc"
+   ],
+   "turn": -18,
+   "pages": [
+    7
+   ],
+   "pins": [
+    "ctlig",
+    "hyoid",
+    "notch",
+    "thyroid"
+   ]
+  },
+  {
+   "q": "Which nerve carries the sensory signal from the carotid sinus baroreceptors?",
+   "options": [
+    "Glossopharyngeal nerve (CN IX)",
+    "Phrenic nerve",
+    "Spinal accessory nerve",
+    "Brachial plexus"
+   ],
+   "answer": 0,
+   "explain": "The carotid sinus is sensed by CN IX, the glossopharyngeal nerve (its carotid branch). The slides list CN X as well; CN X carries the motor side of the reflex. Vagus is not an option here.",
+   "focus": [
+    "cn9",
+    "csn",
+    "sinus"
+   ],
+   "turn": 55,
+   "pages": [
+    34,
+    35
+   ],
+   "pins": [
+    "cn9",
+    "phr",
+    "xi",
+    "bp"
+   ]
+  },
+  {
+   "q": "Which artery is a terminal branch of the external carotid?",
+   "options": [
+    "Maxillary artery",
+    "Superior thyroid artery",
+    "Lingual artery",
+    "Facial artery"
+   ],
+   "answer": 0,
+   "explain": "The ECA divides into the maxillary and superficial temporal arteries. The superior thyroid, lingual, and facial arise earlier.",
+   "focus": [
+    "maxill",
+    "stemp"
+   ],
+   "turn": 35,
+   "pages": [
+    34,
+    36
+   ],
+   "pins": [
+    "maxill",
+    "sth",
+    "lingual",
+    "facial"
+   ]
+  },
+  {
+   "q": "Which structure begins at the external occipital protuberance and continues as the supraspinous ligament?",
+   "options": [
+    "Ligamentum nuchae",
+    "Splenius capitis",
+    "Semispinalis capitis",
+    "Prevertebral fascia"
+   ],
+   "answer": 0,
+   "explain": "The ligamentum nuchae begins at the external occipital protuberance and continues inferiorly as the supraspinous ligament.",
+   "focus": [
+    "nuchal",
+    "eop"
+   ],
+   "turn": 160,
+   "pages": [
+    29,
+    31
+   ],
+   "pins": [
+    "nuchal",
+    "splen",
+    "semis",
+    "prevert"
+   ]
+  },
+  {
+   "q": "On carotid ultrasound, which vessel is usually the more superficial, near the SCM?",
+   "options": [
+    "External carotid artery",
+    "Internal carotid artery",
+    "Vertebral artery"
+   ],
+   "answer": 0,
+   "explain": "The ECA is usually the more superficial of the two, near the superficial neck muscles such as the SCM.",
+   "focus": [
+    "eca"
+   ],
+   "turn": 35,
+   "pages": [
+    47,
+    48
+   ],
+   "pins": [
+    "eca",
+    "ica",
+    "va"
+   ]
+  },
+  {
+   "q": "The right common carotid artery arises from which vessel?",
+   "options": [
+    "Brachiocephalic trunk",
+    "Aortic arch",
+    "Right subclavian artery",
+    "Right vertebral artery"
+   ],
+   "answer": 0,
+   "explain": "The right CCA begins at the brachiocephalic trunk. The left CCA arises directly from the aortic arch.",
+   "focus": [
+    "bct",
+    "rcca",
+    "arch",
+    "lcca"
+   ],
+   "turn": -20,
+   "pages": [
+    32,
+    33
+   ]
+  },
+  {
+   "q": "A visible, bounding water-hammer pulse in the neck is a sign of?",
+   "options": [
+    "Aortic regurgitation",
+    "Aortic stenosis",
+    "Mitral stenosis",
+    "Cardiac tamponade"
+   ],
+   "answer": 0,
+   "explain": "Corrigan's (water-hammer) pulse, seen over the common carotid in the anterior triangle, is a sign of aortic regurgitation.",
+   "focus": [
+    "rcca",
+    "lcca"
+   ],
+   "turn": -20,
+   "pages": [
+    10
+   ]
+  },
+  {
+   "q": "Which landmark guides internal jugular central line access?",
+   "options": [
+    "Lesser supraclavicular fossa",
+    "Jugular notch",
+    "Submental triangle",
+    "Muscular triangle"
+   ],
+   "answer": 0,
+   "explain": "The IJV lies deep to the lesser supraclavicular fossa, between the two heads of the SCM.",
+   "focus": [
+    "fossa",
+    "ijv"
+   ],
+   "turn": -50,
+   "pages": [
+    43
+   ]
+  },
+  {
+   "q": "Which approach to the subclavian vein did your professor call safer?",
+   "options": [
+    "Infraclavicular",
+    "Supraclavicular",
+    "Posterior triangle"
+   ],
+   "answer": 0,
+   "explain": "Infraclavicular is safer than supraclavicular, which sits next to the brachial plexus and subclavian artery.",
+   "focus": [
+    "scv",
+    "clav"
+   ],
+   "turn": 20,
+   "pages": [
+    44
+   ]
+  },
+  {
+   "q": "Deep pressure just above the clavicle in the inferior posterior triangle palpates which vessel?",
+   "options": [
+    "Subclavian artery",
+    "Common carotid artery",
+    "Superficial temporal artery",
+    "Facial artery"
+   ],
+   "answer": 0,
+   "explain": "Subclavian pulsations are felt with deep pressure in the inferior posterior triangle, curling the fingers over the clavicle.",
+   "focus": [
+    "lsa"
+   ],
+   "turn": 60,
+   "pages": [
+    14
+   ]
+  },
+  {
+   "q": "The costocervical trunk feeds which of the following?",
+   "options": [
+    "First two intercostal spaces and deep neck",
+    "Thyroid gland and lateral neck",
+    "Posterior brain via the basilar artery",
+    "Muscles of facial expression"
+   ],
+   "answer": 0,
+   "explain": "The costocervical trunk leaves the subclavian posteriorly to feed the first two intercostal spaces, the deep neck, and the posterior neck.",
+   "focus": [
+    "cct"
+   ],
+   "turn": 70,
+   "pages": [
+    16,
+    17
+   ]
+  },
+  {
+   "q": "On Doppler ultrasound, red color indicates blood flowing?",
+   "options": [
+    "Away from the probe",
+    "Toward the probe",
+    "In an artery",
+    "In a vein"
+   ],
+   "answer": 0,
+   "explain": "Per the slides (p45), red means flow away from the probe and blue means toward it, and color does not tell you artery or vein. Many references teach the opposite default (BART: blue away, red toward) because the color scale can be inverted; answer with the slides on the exam.",
+   "focus": [
+    "lcca",
+    "ica",
+    "eca"
+   ],
+   "turn": 40,
+   "pages": [
+    45,
+    47
+   ]
+  },
+  {
+   "q": "How does flowing blood appear on ultrasound?",
+   "options": [
+    "Anechoic (black)",
+    "Hyperechoic (bright)",
+    "Hypoechoic (grey)"
+   ],
+   "answer": 0,
+   "explain": "Blood and other fluid are anechoic, pitch black. Calcified tissue is hyperechoic, bright white.",
+   "focus": [
+    "ijv"
+   ],
+   "turn": -40,
+   "pages": [
+    45,
+    48
+   ]
+  },
+  {
+   "q": "What are the scalenes' main actions?",
+   "options": [
+    "Flex neck laterally; elevate upper ribs in forced inspiration",
+    "Extend the neck",
+    "Depress the hyoid bone",
+    "Protrude the jaw"
+   ],
+   "answer": 0,
+   "explain": "The three scalenes flex the neck laterally and elevate the 1st (anterior, middle) or 2nd (posterior) rib in forced inspiration.",
+   "focus": [
+    "ascal",
+    "mscal",
+    "pscal"
+   ],
+   "turn": 55,
+   "pages": [
+    19,
+    22
+   ]
+  },
+  {
+   "q": "The strap (infrahyoid) muscles mainly act to?",
+   "options": [
+    "Depress the hyoid bone and larynx",
+    "Elevate the hyoid bone",
+    "Extend the neck",
+    "Elevate the first rib"
+   ],
+   "answer": 0,
+   "explain": "Sternohyoid, omohyoid, sternothyroid, and thyrohyoid depress the hyoid and larynx and stabilize the hyoid.",
+   "focus": [
+    "sthy",
+    "omo",
+    "stthy",
+    "thyhy"
+   ],
+   "turn": -40,
+   "pages": [
+    27
+   ]
+  },
+  {
+   "q": "A retropharyngeal abscess most characteristically causes?",
+   "options": [
+    "A pharyngeal bulge with dysphagia and dysarthria",
+    "Unilateral facial droop",
+    "Loss of the carotid pulse",
+    "Shoulder drop"
+   ],
+   "answer": 0,
+   "explain": "A retropharyngeal abscess bulges into the pharynx, causing dysphagia and dysarthria, and can drip into the mediastinum.",
+   "focus": [
+    "rps",
+    "prevert"
+   ],
+   "turn": 20,
+   "pages": [
+    4
+   ]
+  },
+  {
+   "q": "Which structures lie within the carotid sheath?",
+   "options": [
+    "Common carotid artery, IJV, vagus nerve",
+    "Subclavian artery, EJV, phrenic nerve",
+    "Vertebral artery, IJV, CN XI",
+    "Common carotid artery, EJV, brachial plexus"
+   ],
+   "answer": 0,
+   "explain": "The carotid sheath contains the common carotid artery, the internal jugular vein, and the vagus nerve.",
+   "focus": [
+    "lcca",
+    "ijv",
+    "vagus"
+   ],
+   "turn": 45,
+   "pages": [
+    3
+   ]
+  }
+ ]
+}

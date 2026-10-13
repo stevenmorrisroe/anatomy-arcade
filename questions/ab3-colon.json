@@ -1,0 +1,526 @@
+{
+ "series": "Abdomen 3 · Colon & Large Intestine",
+ "model": "ab3-colon",
+ "accent": "#8ac926",
+ "questions": [
+  {
+   "q": "Which marked structure typically lies retrocecal?",
+   "options": [
+    "Appendix",
+    "Terminal ileum",
+    "Ascending colon",
+    "Cecum"
+   ],
+   "answer": 0,
+   "explain": "The vermiform appendix is a blind intestinal diverticulum off the inferior wall of the cecum and typically lies retrocecal.",
+   "focus": [
+    "app"
+   ],
+   "turn": -20,
+   "pins": [
+    "app",
+    "ileum",
+    "asc",
+    "cecum"
+   ],
+   "pages": [
+    7
+   ]
+  },
+  {
+   "q": "Which marked colon segment is completely intraperitoneal?",
+   "options": [
+    "Ascending colon",
+    "Transverse colon",
+    "Descending colon"
+   ],
+   "answer": 1,
+   "explain": "The transverse colon (and the sigmoid) is completely intraperitoneal. The ascending and descending colon are retroperitoneal on their posterior walls only.",
+   "focus": [
+    "trans_p"
+   ],
+   "turn": 0,
+   "pins": [
+    "asc",
+    "trans_p",
+    "desc"
+   ],
+   "pages": [
+    12,
+    13,
+    15
+   ]
+  },
+  {
+   "q": "Which marked structure is the bend where the ascending colon turns toward the transverse colon, beneath the liver?",
+   "options": [
+    "Hepatic flexure",
+    "Splenic flexure",
+    "Sigmoid colon",
+    "Cecum"
+   ],
+   "answer": 0,
+   "explain": "The ascending colon rises on the right to the right lobe of the liver and turns at the right colic (hepatic) flexure.",
+   "focus": [
+    "hf"
+   ],
+   "turn": 0,
+   "pins": [
+    "hf",
+    "sf",
+    "sig",
+    "cecum"
+   ],
+   "pages": [
+    12,
+    13
+   ]
+  },
+  {
+   "q": "Which marked artery creates the anastomosis that unites the SMA and IMA territories?",
+   "options": [
+    "Marginal artery",
+    "Middle colic artery",
+    "Left colic artery",
+    "Ileocolic artery"
+   ],
+   "answer": 0,
+   "explain": "The marginal artery runs along the colon and forms an anastomosis that unites the SMA and IMA territories.",
+   "focus": [
+    "marg"
+   ],
+   "turn": 0,
+   "pins": [
+    "marg",
+    "mca",
+    "lca",
+    "ilc"
+   ],
+   "pages": [
+    17,
+    19
+   ]
+  },
+  {
+   "q": "Which marked vessel supplies the descending colon, the sigmoid colon and the rectum?",
+   "options": [
+    "Superior mesenteric artery",
+    "Inferior mesenteric artery",
+    "Middle colic artery",
+    "Celiac trunk"
+   ],
+   "answer": 1,
+   "explain": "The inferior mesenteric artery supplies the distal quarter of the transverse colon, the descending colon, the sigmoid colon and the rectum.",
+   "focus": [
+    "ima",
+    "ima_terr"
+   ],
+   "turn": -20,
+   "pins": [
+    "sma",
+    "ima",
+    "mca",
+    "celiac"
+   ],
+   "pages": [
+    17
+   ]
+  },
+  {
+   "q": "Which marked ligament attaches the spleen to the greater curvature of the stomach?",
+   "options": [
+    "Gastrosplenic ligament",
+    "Splenorenal ligament",
+    "Splenocolic ligament"
+   ],
+   "answer": 0,
+   "explain": "The gastrosplenic ligament connects the spleen to the greater curvature of the stomach.",
+   "focus": [
+    "gsl"
+   ],
+   "turn": 150,
+   "pins": [
+    "gsl",
+    "srl",
+    "scl"
+   ],
+   "pages": [
+    24
+   ]
+  },
+  {
+   "q": "Which marked ligament anchors the spleen to the left kidney?",
+   "options": [
+    "Gastrosplenic ligament",
+    "Splenorenal ligament",
+    "Splenocolic ligament"
+   ],
+   "answer": 1,
+   "explain": "The splenorenal ligament connects the spleen to the left kidney. The splenocolic ligament goes to the colon.",
+   "focus": [
+    "srl"
+   ],
+   "turn": 150,
+   "pins": [
+    "gsl",
+    "srl",
+    "scl"
+   ],
+   "pages": [
+    24
+   ]
+  },
+  {
+   "q": "Which marked part of the pancreas overlies the origin of the hepatic portal vein?",
+   "options": [
+    "Head",
+    "Neck",
+    "Body",
+    "Tail"
+   ],
+   "answer": 1,
+   "explain": "The short neck of the pancreas overlies the origin of the hepatic portal vein.",
+   "focus": [
+    "p_neck"
+   ],
+   "turn": 20,
+   "pins": [
+    "p_head",
+    "p_neck",
+    "p_body",
+    "p_tail"
+   ],
+   "pages": [
+    36
+   ]
+  },
+  {
+   "q": "Which marked part of the pancreas lies posterior to the SMA and SMV?",
+   "options": [
+    "Uncinate process",
+    "Neck",
+    "Body",
+    "Tail"
+   ],
+   "answer": 0,
+   "explain": "The uncinate process, the inferior projection of the head, lies posterior to the superior mesenteric artery and vein.",
+   "focus": [
+    "p_unc",
+    "sma",
+    "smv"
+   ],
+   "turn": 20,
+   "pins": [
+    "p_unc",
+    "p_neck",
+    "p_body",
+    "p_tail"
+   ],
+   "pages": [
+    35,
+    36
+   ]
+  },
+  {
+   "q": "Which marked artery gives rise to the superior pancreaticoduodenal artery?",
+   "options": [
+    "Gastroduodenal artery",
+    "Superior mesenteric artery",
+    "Splenic artery",
+    "Inferior mesenteric artery"
+   ],
+   "answer": 0,
+   "explain": "The gastroduodenal artery gives rise to the superior pancreaticoduodenal artery. The inferior pancreaticoduodenal artery arises from the SMA.",
+   "focus": [
+    "gda"
+   ],
+   "turn": 20,
+   "pins": [
+    "gda",
+    "sma",
+    "spla",
+    "ima"
+   ],
+   "pages": [
+    37,
+    38
+   ]
+  },
+  {
+   "q": "Which marked duct drains the pancreas toward the ampulla of Vater, where it meets the bile duct?",
+   "options": [
+    "Main pancreatic duct",
+    "Accessory pancreatic duct",
+    "Cystic duct",
+    "Common hepatic duct"
+   ],
+   "answer": 0,
+   "explain": "The main pancreatic duct joins the bile duct at the hepatopancreatic ampulla, which opens at the major duodenal papilla.",
+   "focus": [
+    "mpd"
+   ],
+   "turn": 10,
+   "pins": [
+    "mpd",
+    "apd",
+    "cystic",
+    "chd"
+   ],
+   "pages": [
+    42,
+    43
+   ]
+  },
+  {
+   "q": "Which marked structure is NOT contained in the hepatoduodenal ligament?",
+   "options": [
+    "Portal vein",
+    "Hepatic artery proper",
+    "Common hepatic duct",
+    "Gallbladder"
+   ],
+   "answer": 3,
+   "explain": "The ligament carries the hepatic artery proper, common hepatic duct and portal vein. The gallbladder is tucked under the liver, external to it.",
+   "focus": [
+    "gb"
+   ],
+   "turn": -30,
+   "pins": [
+    "pv",
+    "hap",
+    "chd",
+    "gb"
+   ],
+   "pages": [
+    55,
+    56,
+    60
+   ]
+  },
+  {
+   "q": "Which marked structure is the remnant of the umbilical vein?",
+   "options": [
+    "Round ligament",
+    "Falciform ligament",
+    "Gallbladder",
+    "Caudate lobe"
+   ],
+   "answer": 0,
+   "explain": "The round ligament (ligamentum teres) runs in the free edge of the falciform ligament and is the remnant of the umbilical vein.",
+   "focus": [
+    "rl"
+   ],
+   "turn": 20,
+   "pins": [
+    "rl",
+    "falc",
+    "gb",
+    "caud"
+   ],
+   "pages": [
+    51,
+    54
+   ]
+  },
+  {
+   "q": "Which marked lobe is the posterior lobe of the liver?",
+   "options": [
+    "Caudate lobe",
+    "Quadrate lobe",
+    "Right lobe",
+    "Left lobe"
+   ],
+   "answer": 0,
+   "explain": "The caudate lobe is posterior and the quadrate lobe is anterior (on the visceral surface).",
+   "focus": [
+    "caud"
+   ],
+   "turn": 180,
+   "pins": [
+    "caud",
+    "quad",
+    "rlobe",
+    "llobe"
+   ],
+   "pages": [
+    54,
+    57
+   ]
+  },
+  {
+   "q": "Which marked veins drain directly into the inferior vena cava?",
+   "options": [
+    "Hepatic veins",
+    "Portal vein",
+    "Splenic vein",
+    "Superior mesenteric vein"
+   ],
+   "answer": 0,
+   "explain": "The left, middle and right hepatic veins drain directly into the IVC. The portal vein carries blood to the liver.",
+   "focus": [
+    "hv",
+    "ivc"
+   ],
+   "turn": 180,
+   "pins": [
+    "mhv",
+    "pv",
+    "splv",
+    "smv"
+   ],
+   "pages": [
+    64,
+    67
+   ]
+  },
+  {
+   "q": "A patient with right lower quadrant pain is suspected to have appendicitis. A surgeon marks McBurney's point. Where is it?",
+   "options": [
+    "One third of the way from the right ASIS toward the umbilicus",
+    "Midpoint between the right ASIS and the umbilicus",
+    "One third of the way from the left ASIS toward the umbilicus",
+    "Midpoint of the right inguinal ligament"
+   ],
+   "answer": 0,
+   "explain": "McBurney's point, the surgical location of the appendix, lies one third of the way along the oblique line from the right ASIS to the umbilicus.",
+   "focus": [
+    "app"
+   ],
+   "turn": -20,
+   "pages": [
+    7,
+    8
+   ]
+  },
+  {
+   "q": "After an appendectomy, which infection carries a higher morbidity rate?",
+   "options": [
+    "Clostridioides difficile",
+    "Helicobacter pylori",
+    "Salmonella typhi",
+    "Giardia lamblia"
+   ],
+   "answer": 0,
+   "explain": "The appendix stores healthy bacteria that replenish the colonic microbiota, and C. diff infections have higher morbidity after appendectomy.",
+   "focus": [
+    "app"
+   ],
+   "turn": -20,
+   "pages": [
+    10
+   ]
+  },
+  {
+   "q": "Which finding is characteristic of the colon rather than the small intestine?",
+   "options": [
+    "Teniae coli",
+    "Plicae circulares",
+    "Microvilli",
+    "Peyer's patches"
+   ],
+   "answer": 0,
+   "explain": "The colon has teniae coli, haustra and semilunar folds, with crypts but no microvilli. Plicae circulares belong to the small intestine.",
+   "focus": [
+    "@colon",
+    "tenia"
+   ],
+   "turn": 25,
+   "pages": [
+    5
+   ]
+  },
+  {
+   "q": "When the teniae coli end, you have reached the:",
+   "options": [
+    "Rectum",
+    "Cecum",
+    "Descending colon",
+    "Transverse colon"
+   ],
+   "answer": 0,
+   "explain": "Teniae coli are strips of longitudinal muscle. When they end, the colon ends and you are at the rectum.",
+   "focus": [
+    "rect"
+   ],
+   "turn": 0,
+   "pages": [
+    5
+   ]
+  },
+  {
+   "q": "The parasympathetic supply to the descending and sigmoid colon comes from the:",
+   "options": [
+    "Pelvic splanchnic nerves (S2-S4)",
+    "Vagus nerve",
+    "Phrenic nerve",
+    "Greater splanchnic nerves"
+   ],
+   "answer": 0,
+   "explain": "Your slide note (p. 17): the vagal supply ends at the SMA/IMA demarcation on the transverse colon. Beyond it, the parasympathetic fibres are pelvic splanchnic nerves, S2 to S4.",
+   "focus": [
+    "ima_terr"
+   ],
+   "turn": -20,
+   "pages": [
+    17
+   ]
+  },
+  {
+   "q": "A passenger has fractures of left ribs 9 to 11, left upper quadrant pain and hypotension after a crash. Which organ is most likely injured?",
+   "options": [
+    "Spleen",
+    "Liver",
+    "Gallbladder",
+    "Appendix"
+   ],
+   "answer": 0,
+   "explain": "The spleen lies behind left ribs 9 to 11, separated from them by the diaphragm. Rupture causes hemorrhage.",
+   "focus": [
+    "spleen"
+   ],
+   "turn": 150,
+   "pages": [
+    23,
+    33
+   ]
+  },
+  {
+   "q": "A gallstone lodges at the major duodenal papilla. Which sphincter normally guards this opening?",
+   "options": [
+    "Sphincter of Oddi",
+    "Pyloric sphincter",
+    "Ileocecal valve",
+    "Internal anal sphincter"
+   ],
+   "answer": 0,
+   "explain": "The sphincter of Oddi surrounds the hepatopancreatic ampulla (of Vater) at the major duodenal papilla.",
+   "focus": [
+    "ampulla",
+    "maj_pap"
+   ],
+   "turn": 10,
+   "pages": [
+    43,
+    44
+   ]
+  },
+  {
+   "q": "Which islet cell secretes glucagon and raises blood glucose?",
+   "options": [
+    "Alpha cell",
+    "Beta cell",
+    "Delta cell",
+    "Epsilon cell"
+   ],
+   "answer": 0,
+   "explain": "Alpha cells release glucagon (glucose up), beta cells insulin (glucose down), delta cells somatostatin (decreases secretions).",
+   "focus": [
+    "pancreas"
+   ],
+   "turn": 20,
+   "pages": [
+    45
+   ]
+  }
+ ]
+}

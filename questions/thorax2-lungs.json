@@ -1,0 +1,557 @@
+{
+ "series": "Thorax 2 · Lungs",
+ "model": "thorax2-lungs",
+ "accent": "#5aa9e6",
+ "questions": [
+  {
+   "q": "Which pin marks the costodiaphragmatic recess?",
+   "options": [
+    "Right superior lobe",
+    "Right middle lobe",
+    "Diaphragm",
+    "Costodiaphragmatic recess"
+   ],
+   "answer": 3,
+   "explain": "The recess is pleural cavity beyond the lung margin, so it contains no lung tissue. Clinically it is the costophrenic angle.",
+   "focus": [
+    "recess"
+   ],
+   "turn": 0,
+   "pins": [
+    "rsl",
+    "rml",
+    "diaph",
+    "recess"
+   ],
+   "pages": [
+    8,
+    9
+   ]
+  },
+  {
+   "q": "Which pin marks the lingula?",
+   "options": [
+    "Lingula",
+    "Right superior lobe",
+    "Right middle lobe",
+    "Left superior lobe"
+   ],
+   "answer": 0,
+   "explain": "The lingula is a tongue-like part of the left lung that hugs the left side of the heart. The right lung has no lingula.",
+   "focus": [
+    "ling"
+   ],
+   "turn": 0,
+   "pins": [
+    "ling",
+    "rsl",
+    "rml",
+    "lsl"
+   ],
+   "pages": [
+    21,
+    24
+   ]
+  },
+  {
+   "q": "Which pin marks the carina?",
+   "options": [
+    "Trachea",
+    "Right main bronchus",
+    "Carina",
+    "Left main bronchus"
+   ],
+   "answer": 2,
+   "explain": "The carina is where the trachea bifurcates into the two main bronchi, at the level of the sternal angle (2nd rib).",
+   "focus": [
+    "carina"
+   ],
+   "turn": 0,
+   "pins": [
+    "trachea",
+    "rmb",
+    "carina",
+    "lmb"
+   ],
+   "pages": [
+    28
+   ]
+  },
+  {
+   "q": "Which pin is the shorter, wider, more vertical main bronchus?",
+   "options": [
+    "Left main bronchus",
+    "Right main bronchus",
+    "Trachea",
+    "Esophagus"
+   ],
+   "answer": 1,
+   "explain": "The right main bronchus is wider, shorter and more vertical than the left, so aspirated objects tend to end up on the right.",
+   "focus": [
+    "rmb"
+   ],
+   "turn": 0,
+   "pins": [
+    "lmb",
+    "rmb",
+    "trachea",
+    "eso"
+   ],
+   "pages": [
+    28,
+    29,
+    30
+   ]
+  },
+  {
+   "q": "Which pin is the vein that arches over the right main bronchus into the SVC?",
+   "options": [
+    "Right pulmonary artery",
+    "Esophagus",
+    "Aortic arch",
+    "Azygos vein"
+   ],
+   "answer": 3,
+   "explain": "The azygos vein ascends at the level of the carina and arches superiorly over the right main bronchus to drain into the SVC.",
+   "focus": [
+    "azygos"
+   ],
+   "turn": 0,
+   "pins": [
+    "rpa",
+    "eso",
+    "aorta",
+    "azygos"
+   ],
+   "pages": [
+    30,
+    31,
+    56,
+    59
+   ]
+  },
+  {
+   "q": "Which pin is the pulmonary vessel that arches over the left main bronchus?",
+   "options": [
+    "Left pulmonary artery",
+    "Right pulmonary vein",
+    "Right pulmonary artery",
+    "Left pulmonary vein"
+   ],
+   "answer": 0,
+   "explain": "The left pulmonary artery crosses over (superior to) the left main bronchus, then runs posterior to the left superior lobar bronchus.",
+   "focus": [
+    "lpa"
+   ],
+   "turn": 0,
+   "pins": [
+    "lpa",
+    "pvri",
+    "rpa",
+    "pvli"
+   ],
+   "pages": [
+    30
+   ]
+  },
+  {
+   "q": "Which pin marks the alveoli, the site of gas exchange?",
+   "options": [
+    "Respiratory bronchiole",
+    "Terminal bronchiole",
+    "Alveoli",
+    "Alveolar duct"
+   ],
+   "answer": 2,
+   "explain": "Gas exchange occurs across the thin alveolar wall. Terminal bronchioles are conducting only; they have no alveoli.",
+   "focus": [
+    "alv"
+   ],
+   "turn": 0,
+   "pins": [
+    "rbr",
+    "tbr",
+    "alv",
+    "aduct"
+   ],
+   "pages": [
+    34,
+    44
+   ]
+  },
+  {
+   "q": "Which pin marks a primary muscle of inhalation?",
+   "options": [
+    "Esophagus",
+    "Diaphragm",
+    "Trachea",
+    "Right middle lobe"
+   ],
+   "answer": 1,
+   "explain": "The diaphragm and the external intercostals are the primary muscles of inhalation; the diaphragm is supplied by the phrenic nerve.",
+   "focus": [
+    "diaph"
+   ],
+   "turn": 0,
+   "pins": [
+    "eso",
+    "diaph",
+    "trachea",
+    "rml"
+   ],
+   "pages": [
+    13,
+    58
+   ]
+  },
+  {
+   "q": "Which pin marks the structure lying directly in front of the esophagus at the level of the lung roots?",
+   "options": [
+    "Left pulmonary artery",
+    "Descending aorta",
+    "Superior vena cava",
+    "Left atrium"
+   ],
+   "answer": 3,
+   "explain": "The esophagus passes just posterior to the left atrium.",
+   "focus": [
+    "la"
+   ],
+   "turn": 0,
+   "pins": [
+    "lpa",
+    "aorta",
+    "svc",
+    "la"
+   ],
+   "pages": [
+    31,
+    56
+   ]
+  },
+  {
+   "q": "Which pin marks the nerve that runs in front of the lung root and is motor to the diaphragm?",
+   "options": [
+    "Phrenic nerve",
+    "Esophagus",
+    "Vagus nerve",
+    "Sympathetic trunk"
+   ],
+   "answer": 0,
+   "explain": "The phrenic nerve passes anterior to the root of the lung; the vagus nerve passes posterior to it.",
+   "focus": [
+    "phrenic"
+   ],
+   "turn": 0,
+   "pins": [
+    "phrenic",
+    "eso",
+    "vagus",
+    "symp"
+   ],
+   "pages": [
+    59
+   ]
+  },
+  {
+   "q": "Which pleural layer lines the inner thoracic wall and the diaphragm?",
+   "options": [
+    "Visceral peritoneum",
+    "Visceral pleura",
+    "Parietal pleura",
+    "Fibrous pericardium"
+   ],
+   "answer": 2,
+   "explain": "Parietal pleura is the outside layer lining the pleural cavity. Visceral pleura covers the lung surface and enters the fissures.",
+   "focus": [
+    "diaph"
+   ],
+   "turn": 20,
+   "pages": [
+    6,
+    7
+   ]
+  },
+  {
+   "q": "Which part of the parietal pleura extends above the clavicles?",
+   "options": [
+    "Diaphragmatic part",
+    "Cervical part",
+    "Costal part",
+    "Mediastinal part"
+   ],
+   "answer": 1,
+   "explain": "The cervical pleura forms a cup-shaped dome over the lung apex, which is why lung tissue can be auscultated above the clavicles.",
+   "focus": [
+    "rsl",
+    "lsl"
+   ],
+   "turn": 20,
+   "pages": [
+    7
+   ]
+  },
+  {
+   "q": "A patient has a blunted costophrenic angle on chest X-ray. Fluid in which space is most likely?",
+   "options": [
+    "Alveoli",
+    "Pericardial cavity",
+    "Bronchial lumen",
+    "Pleural cavity"
+   ],
+   "answer": 3,
+   "explain": "Pleural effusion is fluid in the pleural cavity. Pulmonary edema is fluid in the alveoli.",
+   "focus": [
+    "recess"
+   ],
+   "turn": 0,
+   "pages": [
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "q": "Which finding on chest X-ray points to pulmonary edema rather than pleural effusion?",
+   "options": [
+    "Kerley B lines and cephalization of vessels",
+    "A pneumothorax line at the apex",
+    "A unilateral dense white lung base",
+    "A hyperlucent hemithorax"
+   ],
+   "answer": 0,
+   "explain": "Pulmonary edema is fluid in the alveoli: Kerley B lines, cephalization of vessels and an increased cardiothoracic ratio.",
+   "focus": [
+    "alv"
+   ],
+   "turn": 0,
+   "pages": [
+    10
+   ]
+  },
+  {
+   "q": "Which feature belongs to the left lung only?",
+   "options": [
+    "Horizontal fissure",
+    "Middle lobe",
+    "Lingula",
+    "Three lobar bronchi"
+   ],
+   "answer": 2,
+   "explain": "The left lung has two lobes, an oblique fissure only, a cardiac notch and a lingula, and two lobar bronchi.",
+   "focus": [
+    "lsl",
+    "ling",
+    "lil"
+   ],
+   "turn": 90,
+   "pages": [
+    21,
+    24
+   ]
+  },
+  {
+   "q": "A toddler inhales a peanut. Which airway is it most likely to enter?",
+   "options": [
+    "Left main bronchus",
+    "Right main bronchus",
+    "Esophagus",
+    "Left lobar bronchus"
+   ],
+   "answer": 1,
+   "explain": "The right main bronchus is wider, shorter and more vertical, so inhaled foreign bodies pass into it more readily.",
+   "focus": [
+    "rmb"
+   ],
+   "turn": 0,
+   "pages": [
+    28,
+    29,
+    30
+   ]
+  },
+  {
+   "q": "How many lobar (secondary) bronchi arise from the right and left main bronchi?",
+   "options": [
+    "Right 2, left 3",
+    "Right 3, left 3",
+    "Right 2, left 2",
+    "Right 3, left 2"
+   ],
+   "answer": 3,
+   "explain": "One lobar bronchus per lobe: three on the right, two on the left. They give rise to segmental (tertiary) bronchi.",
+   "focus": [
+    "rmb",
+    "lmb",
+    "rsb",
+    "rmlb",
+    "rilb",
+    "lsb",
+    "lilb"
+   ],
+   "turn": 0,
+   "pages": [
+    18,
+    21,
+    28
+   ]
+  },
+  {
+   "q": "Which structure is NOT part of the hilum (root) of the lung?",
+   "options": [
+    "Esophagus",
+    "Pulmonary artery",
+    "Pulmonary vein",
+    "Main bronchus"
+   ],
+   "answer": 0,
+   "explain": "The hilum contains the pulmonary arteries and veins, the main bronchus, bronchial vessels, lymphatics and nerves. The esophagus lies in the mediastinum.",
+   "focus": [
+    "rmb",
+    "rpa",
+    "pvrs",
+    "pvri"
+   ],
+   "turn": 0,
+   "pages": [
+    22,
+    24
+   ]
+  },
+  {
+   "q": "The left main bronchus passes inferior to which structure and anterior to the esophagus?",
+   "options": [
+    "Right pulmonary artery",
+    "Azygos vein",
+    "Arch of the aorta",
+    "Superior vena cava"
+   ],
+   "answer": 2,
+   "explain": "The left main bronchus passes under the aortic arch and in front of the esophagus and thoracic aorta on its way to the left hilum.",
+   "focus": [
+    "lmb",
+    "aorta"
+   ],
+   "turn": 0,
+   "pages": [
+    28,
+    31
+   ]
+  },
+  {
+   "q": "Oxygenated blood returns to the left atrium through how many pulmonary veins?",
+   "options": [
+    "Two",
+    "Three",
+    "Four",
+    "Six"
+   ],
+   "answer": 2,
+   "explain": "Four pulmonary veins, two from each lung, carry oxygen-rich blood to the left atrium. Pulmonary arteries carry oxygen-poor blood.",
+   "focus": [
+    "pvrs",
+    "pvri",
+    "pvls",
+    "pvli",
+    "la"
+   ],
+   "turn": 0,
+   "pages": [
+    46,
+    47
+   ]
+  },
+  {
+   "q": "Which cell secretes surfactant?",
+   "options": [
+    "Type I pneumocyte",
+    "Type II pneumocyte",
+    "Alveolar macrophage",
+    "Capillary endothelial cell"
+   ],
+   "answer": 1,
+   "explain": "Type II pneumocytes secrete surfactant, which prevents alveolar collapse. Type I cells are the thin squamous gas-exchange cells.",
+   "focus": [
+    "alv"
+   ],
+   "turn": 0,
+   "pages": [
+    38,
+    39
+   ]
+  },
+  {
+   "q": "Which statement about bronchioles is correct?",
+   "options": [
+    "They are the main site of gas exchange",
+    "They are about 5 mm wide",
+    "They have cartilage rings for support",
+    "They contain smooth muscle but no cartilage"
+   ],
+   "answer": 3,
+   "explain": "Bronchioles are about 0.5 mm wide, with smooth muscle for bronchodilation and bronchoconstriction but no cartilage.",
+   "focus": [
+    "tbr",
+    "rbr"
+   ],
+   "turn": 0,
+   "pages": [
+    35
+   ]
+  },
+  {
+   "q": "Parasympathetic (vagal) stimulation of the bronchial smooth muscle causes:",
+   "options": [
+    "Bronchoconstriction",
+    "Vasoconstriction only",
+    "Decreased gland secretion",
+    "Bronchodilation"
+   ],
+   "answer": 0,
+   "explain": "The vagus causes bronchoconstriction and gland secretion. Sympathetic beta 2 stimulation causes bronchodilation.",
+   "focus": [
+    "vagus"
+   ],
+   "turn": 0,
+   "pages": [
+    35,
+    48,
+    49
+   ]
+  },
+  {
+   "q": "Which pontine center adjusts the rate and pattern of breathing, modifying the pace set by the medulla?",
+   "options": [
+    "Respiratory rhythmicity center (medulla)",
+    "Apneustic center (pons)",
+    "Pneumotaxic center (pons)",
+    "Dorsal horn of the spinal cord"
+   ],
+   "answer": 2,
+   "explain": "The respiratory rhythmicity center (medulla) sets the pace and initiates breathing; the apneustic center (pons) adjusts intensity (depth); the pneumotaxic center (pons) adjusts rate and pattern.",
+   "focus": [],
+   "turn": 0,
+   "pages": [
+    51
+   ]
+  },
+  {
+   "q": "A mother in premature labor is treated with cortisol-type therapy. What is the aim?",
+   "options": [
+    "Close the ductus arteriosus",
+    "Promote fetal lung development",
+    "Relax the uterus",
+    "Increase fetal heart rate"
+   ],
+   "answer": 1,
+   "explain": "Cortisol is crucial for lung development, so it is given when preterm delivery is expected.",
+   "focus": [
+    "alv"
+   ],
+   "turn": 0,
+   "pages": [
+    18
+   ]
+  }
+ ]
+}

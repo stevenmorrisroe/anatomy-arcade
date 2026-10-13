@@ -1,0 +1,555 @@
+{
+ "series": "Neck 2 · Throat",
+ "model": "neck2-throat",
+ "accent": "#ff9f1c",
+ "questions": [
+  {
+   "q": "Which pin marks the pharyngeal tonsil, called the adenoid when enlarged?",
+   "options": [
+    "Uvula",
+    "Palatine tonsil",
+    "Pharyngeal tonsil"
+   ],
+   "answer": 2,
+   "explain": "Pharyngeal tonsil: aggregated lymphoid tissue in the roof and posterior wall of the nasopharynx. Enlarged, it is the adenoid. Palatine tonsils sit in the oropharynx.",
+   "focus": [
+    "ptonsil"
+   ],
+   "turn": 15,
+   "pins": [
+    "uvula",
+    "ptons",
+    "ptonsil"
+   ],
+   "pages": [
+    4,
+    6,
+    9
+   ]
+  },
+  {
+   "q": "Which pin marks the torus tubarius, the raised rim of the auditory tube opening?",
+   "options": [
+    "Palatoglossal arch",
+    "Uvula",
+    "Pharyngeal tonsil",
+    "Torus tubarius"
+   ],
+   "answer": 3,
+   "explain": "Torus tubarius: the raised area of the pharyngotympanic tube. The pharyngeal recess is the area just behind it.",
+   "focus": [
+    "torus"
+   ],
+   "turn": 0,
+   "pins": [
+    "pga",
+    "uvula",
+    "ptonsil",
+    "torus"
+   ],
+   "pages": [
+    7
+   ]
+  },
+  {
+   "q": "Which pin marks the only pharyngeal muscle supplied by the glossopharyngeal nerve?",
+   "options": [
+    "Stylopharyngeus",
+    "Cricopharyngeus",
+    "Superior constrictor"
+   ],
+   "answer": 0,
+   "explain": "Stylopharyngeus (CN IX) is the exception. The constrictors and cricopharyngeus are vagus. Tensor veli palatini (a palate muscle) is V3.",
+   "focus": [
+    "stylophar"
+   ],
+   "turn": 15,
+   "pins": [
+    "stylophar",
+    "cricophar",
+    "sc"
+   ],
+   "pages": [
+    10,
+    17,
+    18
+   ]
+  },
+  {
+   "q": "Which pin marks the cricoid cartilage?",
+   "options": [
+    "Hyoid bone",
+    "Thyroid cartilage",
+    "Epiglottis",
+    "Cricoid cartilage"
+   ],
+   "answer": 3,
+   "explain": "Cricoid: a complete ring at C6, felt below the laryngeal prominence. The lecture calls it the most limiting airway structure for intubation.",
+   "focus": [
+    "cricoid"
+   ],
+   "turn": 0,
+   "pins": [
+    "hyoid",
+    "thyroid",
+    "epig",
+    "cricoid"
+   ],
+   "pages": [
+    20,
+    22,
+    23
+   ]
+  },
+  {
+   "q": "Which pin marks the true vocal fold?",
+   "options": [
+    "Epiglottis",
+    "Vocal fold",
+    "Cricoid cartilage"
+   ],
+   "answer": 1,
+   "explain": "Vocal folds: elastic true cords attached to the arytenoid cartilages. Vestibular folds are inelastic and lie superior to them.",
+   "focus": [
+    "vocal"
+   ],
+   "turn": 60,
+   "pins": [
+    "epig",
+    "vocal",
+    "cricoid"
+   ],
+   "pages": [
+    25,
+    26
+   ]
+  },
+  {
+   "q": "Which pin marks the vallecula, where the intubation blade goes?",
+   "options": [
+    "Glottis",
+    "Vallecula",
+    "Cricoid cartilage"
+   ],
+   "answer": 1,
+   "explain": "Vallecula: the space between the epiglottis and the root of the tongue.",
+   "focus": [
+    "vallecula"
+   ],
+   "turn": 30,
+   "pins": [
+    "glottis",
+    "vallecula",
+    "cricoid"
+   ],
+   "pages": [
+    26,
+    35
+   ]
+  },
+  {
+   "q": "Which pin marks a parathyroid gland?",
+   "options": [
+    "Thyroid lobe",
+    "Esophagus",
+    "Parathyroid gland",
+    "Common carotid artery"
+   ],
+   "answer": 2,
+   "explain": "Four parathyroids lie on the posterior surface of the thyroid lobes. The inferior thyroid arteries mainly supply them.",
+   "focus": [
+    "pth"
+   ],
+   "turn": -180,
+   "pins": [
+    "lobe",
+    "esoph",
+    "pth",
+    "rcca"
+   ],
+   "pages": [
+    58,
+    69,
+    70
+   ]
+  },
+  {
+   "q": "Which pin marks the carina?",
+   "options": [
+    "Trachealis muscle",
+    "Tracheal cartilage",
+    "Right main bronchus",
+    "Carina"
+   ],
+   "answer": 3,
+   "explain": "Carina: the internal ridge at the tracheal bifurcation, at T5 or the sternal angle (2nd rib).",
+   "focus": [
+    "carina"
+   ],
+   "turn": -75,
+   "pins": [
+    "trachealis",
+    "trc",
+    "rmb",
+    "carina"
+   ],
+   "pages": [
+    44,
+    45
+   ]
+  },
+  {
+   "q": "Which pin marks the inferior thyroid artery?",
+   "options": [
+    "Inferior thyroid artery",
+    "Ascending pharyngeal artery",
+    "Common carotid artery",
+    "Thyrocervical trunk"
+   ],
+   "answer": 0,
+   "explain": "Inferior thyroid artery: arises from the thyrocervical trunk (off the subclavian). It also feeds the parathyroids and the cervical esophagus. The superior thyroid artery comes from the external carotid.",
+   "focus": [
+    "ita"
+   ],
+   "turn": 150,
+   "pins": [
+    "ita",
+    "apa",
+    "rcca",
+    "tct"
+   ],
+   "pages": [
+    53,
+    61,
+    62,
+    69
+   ]
+  },
+  {
+   "q": "A patient has lost the afferent limb of the gag reflex. Which nerve carries sensation from the pharyngeal mucosa?",
+   "options": [
+    "Vagus nerve (CN X)",
+    "Glossopharyngeal nerve (CN IX)",
+    "Hypoglossal nerve (CN XII)",
+    "Mandibular nerve (V3)"
+   ],
+   "answer": 1,
+   "explain": "CN IX gives sensory fibers to the mucous membrane of the pharynx (gag reflex, food bolus). CN X is the motor nerve of the pharynx.",
+   "focus": [
+    "cn9",
+    "pplex"
+   ],
+   "turn": 165,
+   "pages": [
+    17,
+    18
+   ]
+  },
+  {
+   "q": "Sensation from the anterior and superior nasopharynx is carried mainly by which nerve?",
+   "options": [
+    "Glossopharyngeal nerve",
+    "Vagus nerve",
+    "Maxillary nerve (V2)",
+    "Facial nerve"
+   ],
+   "answer": 2,
+   "explain": "Anterior and superficial viscerocranial structures use CN V; deeper pharyngeal structures use CN IX. The anterior, superior nasopharynx is V2.",
+   "focus": [
+    "np"
+   ],
+   "turn": 45,
+   "pages": [
+    17
+   ]
+  },
+  {
+   "q": "A muscle tenses the palate and pulls on the auditory tube when swallowing. Which nerve supplies it?",
+   "options": [
+    "Vagus nerve",
+    "Glossopharyngeal nerve",
+    "Mandibular nerve (V3)",
+    "Maxillary nerve (V2)"
+   ],
+   "answer": 2,
+   "explain": "Tensor veli palatini is supplied by V3. It tenses the palate, seals the oral cavity from the nasal cavity, and helps equalize middle-ear pressure.",
+   "focus": [
+    "tvp"
+   ],
+   "turn": 15,
+   "pages": [
+    17
+   ]
+  },
+  {
+   "q": "Pharyngeal venous plexus blood drains through the pharyngeal and superior thyroid veins into which vein?",
+   "options": [
+    "Internal jugular vein",
+    "Azygos vein",
+    "Subclavian vein",
+    "Inferior vena cava"
+   ],
+   "answer": 0,
+   "explain": "External palatine vein, then pharyngeal venous plexus, then pharyngeal and superior thyroid veins, then the internal jugular vein.",
+   "focus": [
+    "pvp",
+    "pharv",
+    "ijv"
+   ],
+   "turn": 150,
+   "pages": [
+    16
+   ]
+  },
+  {
+   "q": "The ascending pharyngeal artery and the superior thyroid artery both arise from which artery?",
+   "options": [
+    "Internal carotid artery",
+    "External carotid artery",
+    "Subclavian artery",
+    "Thyrocervical trunk"
+   ],
+   "answer": 1,
+   "explain": "Both are branches of the external carotid artery.",
+   "focus": [
+    "apa",
+    "sta",
+    "eca"
+   ],
+   "turn": -15,
+   "pages": [
+    15
+   ]
+  },
+  {
+   "q": "According to the lecture, which laryngeal structure is most limiting for intubation because it does not move and is small?",
+   "options": [
+    "Epiglottis",
+    "Thyroid cartilage",
+    "Cricoid cartilage",
+    "Arytenoid cartilage"
+   ],
+   "answer": 2,
+   "explain": "The cricoid, the complete ring at C6, is the most limiting structure of the airway for intubation per the lecture.",
+   "focus": [
+    "cricoid"
+   ],
+   "turn": 15,
+   "pages": [
+    23
+   ]
+  },
+  {
+   "q": "Which muscle abducts (opens) the vocal folds?",
+   "options": [
+    "Lateral cricoarytenoid",
+    "Posterior cricoarytenoid",
+    "Cricothyroid",
+    "Vocalis"
+   ],
+   "answer": 1,
+   "explain": "Posterior cricoarytenoid: the openers (abduction). Lateral cricoarytenoid: the closers (adduction). Cricothyroid and vocalis are not the cord openers.",
+   "focus": [
+    "pca",
+    "lca"
+   ],
+   "turn": 105,
+   "pages": [
+    27
+   ]
+  },
+  {
+   "q": "Which landmark separates the upper from the lower respiratory tract, so tracheitis counts as a lower respiratory infection?",
+   "options": [
+    "Hyoid bone",
+    "Epiglottis",
+    "Vocal cords",
+    "Cricothyroid ligament"
+   ],
+   "answer": 2,
+   "explain": "The lecture note: the vocal cords separate upper from lower respiratory tract. Tracheitis lies below them, so it is a lower respiratory infection.",
+   "focus": [
+    "vocal"
+   ],
+   "turn": 45,
+   "pages": [
+    29
+   ]
+  },
+  {
+   "q": "A 62-year-old has hoarseness as the only symptom of a thoracic aortic arch aneurysm. Which nerve is stretched?",
+   "options": [
+    "Left recurrent laryngeal nerve",
+    "Right recurrent laryngeal nerve",
+    "Superior laryngeal nerve",
+    "Hypoglossal nerve"
+   ],
+   "answer": 0,
+   "explain": "The left recurrent laryngeal nerve hooks under the aortic arch. The right one hooks under the right subclavian artery.",
+   "focus": [
+    "rln",
+    "arch"
+   ],
+   "turn": 150,
+   "pages": [
+    42
+   ]
+  },
+  {
+   "q": "After thyroid surgery a patient has a raspy voice. Which nerve passes beside the ligament of Berry?",
+   "options": [
+    "External laryngeal nerve",
+    "Hypoglossal nerve",
+    "Recurrent laryngeal nerve",
+    "Phrenic nerve"
+   ],
+   "answer": 2,
+   "explain": "The recurrent laryngeal nerve usually passes between the ligament of Berry and its lateral leaf, or deep to the ligament.",
+   "focus": [
+    "berry",
+    "rln"
+   ],
+   "turn": 165,
+   "pages": [
+    64
+   ]
+  },
+  {
+   "q": "Each tracheal cartilage is C-shaped. Which structure connects the open posterior ends?",
+   "options": [
+    "Annular ligament",
+    "Trachealis muscle",
+    "Cricotracheal ligament",
+    "Esophageal wall"
+   ],
+   "answer": 1,
+   "explain": "The trachealis muscle bridges the posterior gap and allows constriction and dilation. Annular ligaments join one ring to the next.",
+   "focus": [
+    "trc",
+    "trachealis"
+   ],
+   "turn": -165,
+   "pages": [
+    44,
+    46
+   ]
+  },
+  {
+   "q": "Which arteries supply the cervical esophagus?",
+   "options": [
+    "Esophageal branches of the inferior thyroid arteries",
+    "Branches of the superior thyroid arteries",
+    "Ascending pharyngeal arteries",
+    "Branches of the internal carotid arteries"
+   ],
+   "answer": 0,
+   "explain": "Esophageal branches of the inferior thyroid arteries (ascending and descending). Veins drain to the inferior thyroid veins, then brachiocephalic veins, then the SVC.",
+   "focus": [
+    "esoba",
+    "ita",
+    "esoph"
+   ],
+   "turn": -180,
+   "pages": [
+    53
+   ]
+  },
+  {
+   "q": "Which thyroid cells produce calcitonin?",
+   "options": [
+    "Follicular cells",
+    "Chief cells",
+    "Parafollicular (C) cells",
+    "Oxyphil cells"
+   ],
+   "answer": 2,
+   "explain": "Thyroid C (parafollicular) cells make calcitonin. Follicular cells (thyrocytes) make thyroxine (T4), and the follicles store colloid, the thyroglobulin used to make T4.",
+   "focus": [
+    "lobe"
+   ],
+   "turn": 0,
+   "pages": [
+    58,
+    66
+   ]
+  },
+  {
+   "q": "The cricopharyngeal part of the inferior constrictor serves as which structure, and which nerve supplies it?",
+   "options": [
+    "Superior esophageal sphincter, vagus",
+    "Superior esophageal sphincter, glossopharyngeal",
+    "Lower esophageal sphincter, vagus",
+    "Palatal sphincter, V3"
+   ],
+   "answer": 0,
+   "explain": "The cricopharyngeal part of the inferior constrictor acts as the superior esophageal sphincter (not a true sphincter, per her note). Like all the constrictors it is vagus.",
+   "focus": [
+    "cricophar",
+    "ic"
+   ],
+   "turn": 165,
+   "pages": [
+    10,
+    11,
+    12
+   ]
+  },
+  {
+   "q": "Vasomotor fibers to the cervical esophagus travel in which structure?",
+   "options": [
+    "Recurrent laryngeal nerves",
+    "Cervical sympathetic trunks",
+    "Phrenic nerves",
+    "Glossopharyngeal nerves"
+   ],
+   "answer": 1,
+   "explain": "Cervical esophagus: motor fibers come via branches of the recurrent laryngeal nerves (CN X), and vasomotor fibers via the cervical sympathetic trunks.",
+   "focus": [
+    "symp",
+    "esoph"
+   ],
+   "turn": 165,
+   "pages": [
+    53
+   ]
+  },
+  {
+   "q": "Which thyroid veins drain into the left and right brachiocephalic veins?",
+   "options": [
+    "Superior thyroid veins",
+    "Middle thyroid veins",
+    "Inferior thyroid veins",
+    "Superior laryngeal veins"
+   ],
+   "answer": 2,
+   "explain": "Superior and middle thyroid veins drain to the internal jugular vein. Inferior thyroid veins drain to the left and right brachiocephalic veins.",
+   "focus": [
+    "itv",
+    "stv",
+    "mtv"
+   ],
+   "turn": 0,
+   "pages": [
+    63
+   ]
+  },
+  {
+   "q": "How is parathyroid hormone secretion mainly controlled?",
+   "options": [
+    "By the vagus nerve",
+    "By cervical sympathetic fibers",
+    "Hormonally, by blood calcium",
+    "By the recurrent laryngeal nerve"
+   ],
+   "answer": 2,
+   "explain": "Parathyroid secretion is controlled hormonally, not by nerves. Nerve branches from the sympathetic ganglia and vagus are only vasomotor.",
+   "focus": [
+    "pth"
+   ],
+   "turn": -180,
+   "pages": [
+    69
+   ]
+  }
+ ]
+}

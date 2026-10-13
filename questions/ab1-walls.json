@@ -1,0 +1,531 @@
+{
+ "series": "Abdomen 1 · Walls",
+ "model": "ab1-walls",
+ "accent": "#ff6b6b",
+ "questions": [
+  {
+   "q": "Which pin marks the transversus abdominis?",
+   "options": [
+    "External oblique",
+    "Internal oblique",
+    "Transversus abdominis",
+    "Transversalis fascia"
+   ],
+   "answer": 2,
+   "explain": "Transversus abdominis is the innermost of the three flat muscles; its fibers run transversely and its aponeurosis helps form the posterior rectus sheath.",
+   "focus": [
+    "ta"
+   ],
+   "turn": -20,
+   "pins": [
+    "eo",
+    "io",
+    "ta",
+    "tf"
+   ],
+   "pages": [
+    12,
+    20,
+    21
+   ]
+  },
+  {
+   "q": "Which pin marks the extraperitoneal fat?",
+   "options": [
+    "Transversalis fascia",
+    "Extraperitoneal fat",
+    "Parietal peritoneum",
+    "Transversus abdominis"
+   ],
+   "answer": 1,
+   "explain": "Order from the muscles inward: transversalis fascia, extraperitoneal fat, parietal peritoneum.",
+   "focus": [
+    "efat"
+   ],
+   "turn": -20,
+   "pins": [
+    "tf",
+    "efat",
+    "peri",
+    "ta"
+   ],
+   "pages": [
+    11
+   ]
+  },
+  {
+   "q": "Which pin marks Scarpa's fascia (the membranous layer)?",
+   "options": [
+    "Skin",
+    "Camper's fascia",
+    "Scarpa's fascia",
+    "External oblique"
+   ],
+   "answer": 2,
+   "explain": "Scarpa's fascia is the deeper, membranous layer of superficial fascia; Camper's is the fatty layer above it.",
+   "focus": [
+    "scarpa"
+   ],
+   "turn": 10,
+   "pins": [
+    "skin",
+    "camper",
+    "scarpa",
+    "eo"
+   ],
+   "pages": [
+    11,
+    26
+   ]
+  },
+  {
+   "q": "Which pin marks the linea semilunaris?",
+   "options": [
+    "Linea alba",
+    "Linea semilunaris",
+    "Tendinous intersection",
+    "Pyramidalis"
+   ],
+   "answer": 1,
+   "explain": "The linea semilunaris is the lateral border of each rectus, and like the linea alba it is a hernia weak point.",
+   "focus": [
+    "sl"
+   ],
+   "turn": 0,
+   "pins": [
+    "la",
+    "sl",
+    "ti",
+    "pyr"
+   ],
+   "pages": [
+    23,
+    24
+   ]
+  },
+  {
+   "q": "Which pin marks the inguinal ligament?",
+   "options": [
+    "Inguinal ligament",
+    "Linea alba",
+    "Xiphoid process",
+    "Iliac crest"
+   ],
+   "answer": 0,
+   "explain": "The inguinal ligament runs from the ASIS to the pubic tubercle: the inferior margin of the external oblique aponeurosis.",
+   "focus": [
+    "ing"
+   ],
+   "turn": 0,
+   "pins": [
+    "ing",
+    "la",
+    "xiph",
+    "ilcr"
+   ],
+   "pages": [
+    7,
+    42,
+    43
+   ]
+  },
+  {
+   "q": "Which pin marks the deep inguinal ring?",
+   "options": [
+    "Superficial inguinal ring",
+    "Deep inguinal ring",
+    "Pubic tubercle",
+    "Anterior superior iliac spine"
+   ],
+   "answer": 1,
+   "explain": "The deep ring is the entrance to the inguinal canal, an opening in the transversalis fascia.",
+   "focus": [
+    "dring"
+   ],
+   "turn": 15,
+   "pins": [
+    "sring",
+    "dring",
+    "ptub",
+    "asis"
+   ],
+   "pages": [
+    46,
+    48
+   ]
+  },
+  {
+   "q": "Which pin marks the lateral umbilical fold?",
+   "options": [
+    "Median umbilical fold",
+    "Medial umbilical fold",
+    "Lateral umbilical fold",
+    "Falciform ligament"
+   ],
+   "answer": 2,
+   "explain": "The lateral umbilical fold covers the inferior epigastric vessels, so it bleeds if cut.",
+   "focus": [
+    "latumb"
+   ],
+   "turn": 180,
+   "pins": [
+    "mumb",
+    "medumb",
+    "latumb",
+    "falc"
+   ],
+   "pages": [
+    33,
+    34
+   ]
+  },
+  {
+   "q": "Which pin marks the site of direct inguinal hernias (Hesselbach triangle)?",
+   "options": [
+    "Supravesical fossa",
+    "Medial inguinal fossa",
+    "Lateral inguinal fossa",
+    "Urinary bladder"
+   ],
+   "answer": 1,
+   "explain": "The medial inguinal fossa (inguinal triangle of Hesselbach) lies between the medial and lateral umbilical folds and is a site of direct hernias.",
+   "focus": [
+    "medf"
+   ],
+   "turn": 180,
+   "pins": [
+    "supf",
+    "medf",
+    "latf",
+    "bladder"
+   ],
+   "pages": [
+    35,
+    36
+   ]
+  },
+  {
+   "q": "Which pin marks the inferior epigastric artery?",
+   "options": [
+    "Superior epigastric artery",
+    "Inferior epigastric artery",
+    "Superficial epigastric artery",
+    "Spermatic cord"
+   ],
+   "answer": 1,
+   "explain": "The inferior epigastric artery branches from the external iliac artery and runs deep to the rectus.",
+   "focus": [
+    "iea"
+   ],
+   "turn": 0,
+   "pins": [
+    "sea",
+    "iea",
+    "sfea",
+    "cord"
+   ],
+   "pages": [
+    27,
+    29,
+    30
+   ]
+  },
+  {
+   "q": "Which pin marks the quadratus lumborum?",
+   "options": [
+    "Psoas major",
+    "Quadratus lumborum",
+    "Iliacus",
+    "Diaphragm"
+   ],
+   "answer": 1,
+   "explain": "Quadratus lumborum is a flat, square-shaped muscle of the posterior wall from the 12th rib and lumbar transverse processes to the iliac crest.",
+   "focus": [
+    "ql"
+   ],
+   "turn": 160,
+   "pins": [
+    "psoas",
+    "ql",
+    "iliacus",
+    "diaph"
+   ],
+   "pages": [
+    52,
+    59
+   ]
+  },
+  {
+   "q": "Below the arcuate line, what forms the posterior wall of the rectus sheath?",
+   "options": [
+    "Transversalis fascia",
+    "Transversus abdominis aponeurosis",
+    "Internal oblique aponeurosis",
+    "External oblique aponeurosis"
+   ],
+   "answer": 0,
+   "explain": "Below the arcuate line all three aponeuroses pass in front of the rectus, leaving only transversalis fascia behind it.",
+   "focus": [
+    "prs",
+    "arc"
+   ],
+   "turn": 175,
+   "pages": [
+    19,
+    25,
+    26
+   ]
+  },
+  {
+   "q": "Which flat muscle has fibers running perpendicular to the external oblique, superomedially?",
+   "options": [
+    "Internal oblique",
+    "Transversus abdominis",
+    "Rectus abdominis",
+    "Pyramidalis"
+   ],
+   "answer": 0,
+   "explain": "Internal oblique fibers run perpendicular to the external oblique; transversus fibers run straight across.",
+   "focus": [
+    "io"
+   ],
+   "turn": -20,
+   "pages": [
+    12,
+    18
+   ]
+  },
+  {
+   "q": "A cirrhotic patient has dilated veins radiating from the umbilicus. Which mechanism explains it?",
+   "options": [
+    "Recanalized fetal umbilical veins draining to superficial epigastric veins",
+    "Thrombosis of the inferior epigastric artery",
+    "Rupture of the linea alba",
+    "Occlusion of the superior epigastric vein"
+   ],
+   "answer": 0,
+   "explain": "Caput medusae: reopened (recanalized) fetal umbilical veins in liver failure engorge the superficial epigastric veins.",
+   "focus": [
+    "umb",
+    "sfev"
+   ],
+   "turn": 0,
+   "pages": [
+    32
+   ]
+  },
+  {
+   "q": "During laparoscopy a trocar tears the inferior epigastric vessels. Which peritoneal fold covers them?",
+   "options": [
+    "Lateral umbilical fold",
+    "Median umbilical fold",
+    "Medial umbilical fold",
+    "Falciform ligament"
+   ],
+   "answer": 0,
+   "explain": "The lateral umbilical folds cover the inferior epigastric vessels and bleed if cut.",
+   "focus": [
+    "latumb",
+    "iea"
+   ],
+   "turn": 180,
+   "pages": [
+    33
+   ]
+  },
+  {
+   "q": "A hernia exits through the deep inguinal ring and travels through the inguinal canal. What is it?",
+   "options": [
+    "Indirect inguinal hernia",
+    "Direct inguinal hernia",
+    "Femoral hernia",
+    "Epigastric hernia"
+   ],
+   "answer": 0,
+   "explain": "Indirect inguinal hernias go through the deep ring (lateral inguinal fossa) and along the canal.",
+   "focus": [
+    "latf",
+    "dring"
+   ],
+   "turn": 180,
+   "pages": [
+    35,
+    36,
+    50
+   ]
+  },
+  {
+   "q": "Which structure is the main occupant of the inguinal canal in males?",
+   "options": [
+    "Spermatic cord",
+    "Round ligament of the liver",
+    "Median umbilical ligament",
+    "Femoral nerve"
+   ],
+   "answer": 0,
+   "explain": "Spermatic cord in males, round ligament of the uterus in females.",
+   "focus": [
+    "cord"
+   ],
+   "turn": 15,
+   "pages": [
+    45
+   ]
+  },
+  {
+   "q": "The median umbilical fold covers a fibrous remnant of which structure?",
+   "options": [
+    "Urachus",
+    "Umbilical vein",
+    "Umbilical artery",
+    "Ductus venosus"
+   ],
+   "answer": 0,
+   "explain": "The median umbilical ligament is the remnant of the urachus, joining the apex of the fetal bladder to the umbilicus.",
+   "focus": [
+    "mumb",
+    "bladder"
+   ],
+   "turn": 180,
+   "pages": [
+    33
+   ]
+  },
+  {
+   "q": "The round ligament of the liver in the free edge of the falciform ligament is a remnant of which fetal vessel?",
+   "options": [
+    "Umbilical vein",
+    "Umbilical artery",
+    "Urachus",
+    "Ductus arteriosus"
+   ],
+   "answer": 0,
+   "explain": "The round ligament (ligamentum teres hepatis) is the fibrous remnant of the umbilical vein.",
+   "focus": [
+    "falc",
+    "rlig"
+   ],
+   "turn": 180,
+   "pages": [
+    38,
+    40,
+    41
+   ]
+  },
+  {
+   "q": "Which nerve supplies the cremaster muscle?",
+   "options": [
+    "Genital branch of the genitofemoral nerve",
+    "Ilioinguinal nerve",
+    "Iliohypogastric nerve",
+    "Obturator nerve"
+   ],
+   "answer": 0,
+   "explain": "The genital branch of the genitofemoral nerve (L1-L2) passes through the inguinal canal and supplies the cremaster and dartos muscles.",
+   "focus": [
+    "gfn",
+    "cord"
+   ],
+   "turn": 15,
+   "pages": [
+    64,
+    65
+   ]
+  },
+  {
+   "q": "After hernia repair a man has numbness of the anterior scrotum and root of the penis. Which nerve is most likely injured?",
+   "options": [
+    "Ilioinguinal nerve",
+    "Iliohypogastric nerve",
+    "Femoral nerve",
+    "Obturator nerve"
+   ],
+   "answer": 0,
+   "explain": "The ilioinguinal nerve (L1) runs through the inguinal canal and supplies the anterior scrotum and root of the penis.",
+   "focus": [
+    "iin"
+   ],
+   "turn": 15,
+   "pages": [
+    62
+   ]
+  },
+  {
+   "q": "The femoral nerve arises from which spinal levels and supplies the quadriceps?",
+   "options": [
+    "L2-L4",
+    "L1-L2",
+    "T10-T12",
+    "S1-S3"
+   ],
+   "answer": 0,
+   "explain": "Femoral nerve L2-L4 (her note: femoral, quads).",
+   "focus": [
+    "femn",
+    "psoas"
+   ],
+   "turn": 160,
+   "pages": [
+    61
+   ]
+  },
+  {
+   "q": "Which muscle is the primary flexor of the thigh at the hip?",
+   "options": [
+    "Iliopsoas",
+    "Quadratus lumborum",
+    "Transversus abdominis",
+    "Rectus abdominis"
+   ],
+   "answer": 0,
+   "explain": "Psoas major and iliacus merge at the lesser trochanter as iliopsoas, the primary hip flexor.",
+   "focus": [
+    "psoas",
+    "iliacus",
+    "iliopsoas"
+   ],
+   "turn": 160,
+   "pages": [
+    58
+   ]
+  },
+  {
+   "q": "Body weight is transmitted from L5 to which structure?",
+   "options": [
+    "Base of the sacrum (superior surface of S1)",
+    "Coccyx",
+    "Ala of the ilium",
+    "Pubic symphysis"
+   ],
+   "answer": 0,
+   "explain": "Body weight passes from L5 to the base of the sacrum, formed by the superior surface of S1.",
+   "focus": [
+    "l5",
+    "sacrum"
+   ],
+   "turn": 160,
+   "pages": [
+    54
+   ]
+  },
+  {
+   "q": "The umbilicus lies at the level of which vertebra?",
+   "options": [
+    "L3",
+    "L1",
+    "L5",
+    "T10"
+   ],
+   "answer": 0,
+   "explain": "Per her surface-anatomy slide the umbilicus is at the level of the L3 vertebra. Textbooks often give the L3-L4 disc; use L3 for this exam.",
+   "focus": [
+    "umb",
+    "l3"
+   ],
+   "turn": 0,
+   "pages": [
+    7
+   ]
+  }
+ ]
+}

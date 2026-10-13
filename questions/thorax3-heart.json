@@ -1,0 +1,583 @@
+{
+ "series": "Thorax 3 · Heart",
+ "model": "heart",
+ "accent": "#e2678a",
+ "questions": [
+  {
+   "q": "Which pin marks the AV node?",
+   "options": [
+    "SA node",
+    "AV node",
+    "AV bundle (of His)",
+    "Purkinje fibers"
+   ],
+   "answer": 1,
+   "explain": "AV node: floor (inferomedial aspect) of the right atrium, more anterior than the SA node. It passes the impulse to the AV bundle.",
+   "focus": [
+    "av"
+   ],
+   "turn": 20,
+   "pins": [
+    "sa",
+    "av",
+    "his",
+    "purk"
+   ],
+   "pages": [
+    64,
+    66,
+    67
+   ]
+  },
+  {
+   "q": "A newborn takes its first breath. The ductus arteriosus will become which adult structure?",
+   "options": [
+    "Coronary sinus",
+    "Ligamentum teres",
+    "Ligamentum arteriosum",
+    "Fossa ovalis"
+   ],
+   "answer": 2,
+   "explain": "Ductus arteriosus becomes the ligamentum arteriosum, connecting the pulmonary trunk to the aortic arch. The foramen ovale becomes the fossa ovalis.",
+   "focus": [
+    "lig"
+   ],
+   "turn": 35,
+   "pages": [
+    21
+   ]
+  },
+  {
+   "q": "Which pin marks the strip of tissue that gives origin to the pectinate muscles?",
+   "options": [
+    "Moderator band",
+    "Crista terminalis",
+    "Fossa ovalis",
+    "Conus arteriosus"
+   ],
+   "answer": 1,
+   "explain": "Crista terminalis: a strong, tendon-like ridge in the right atrium. The pectinate muscles (comb-like) arise from it.",
+   "focus": [
+    "crista",
+    "pect"
+   ],
+   "turn": -40,
+   "pins": [
+    "mod",
+    "crista",
+    "fo",
+    "conus"
+   ],
+   "pages": [
+    19,
+    20
+   ]
+  },
+  {
+   "q": "A patient has an infarct that destroys the posteromedial papillary muscle. Which artery supplies it?",
+   "options": [
+    "Anterior interventricular artery",
+    "Posterior interventricular artery",
+    "Right atrial branch",
+    "Diagonal artery"
+   ],
+   "answer": 1,
+   "explain": "Posteromedial papillary muscle: posterior interventricular artery (back of the heart). Anterolateral: anterior interventricular artery (LAD) and circumflex artery.",
+   "focus": [
+    "ppm",
+    "pda"
+   ],
+   "turn": 190,
+   "pages": [
+    30,
+    55
+   ]
+  },
+  {
+   "q": "Which pin marks the AV bundle (bundle of His)?",
+   "options": [
+    "SA node",
+    "AV node",
+    "AV bundle (of His)",
+    "Right bundle branch"
+   ],
+   "answer": 2,
+   "explain": "The AV bundle runs along the interventricular septum, then divides into the right and left bundle branches.",
+   "focus": [
+    "his"
+   ],
+   "turn": 20,
+   "pins": [
+    "sa",
+    "av",
+    "his",
+    "rbb"
+   ],
+   "pages": [
+    66,
+    67
+   ]
+  },
+  {
+   "q": "Which pin marks the pulmonary valve?",
+   "options": [
+    "Tricuspid valve",
+    "Mitral valve",
+    "Pulmonary valve",
+    "Aortic valve"
+   ],
+   "answer": 2,
+   "explain": "Pulmonary valve: a three-cusp semilunar valve at the end of the conus arteriosus. Heard loudest at the left 2nd intercostal space.",
+   "focus": [
+    "pval"
+   ],
+   "turn": 190,
+   "pins": [
+    "tv",
+    "mv",
+    "pval",
+    "aval"
+   ],
+   "pages": [
+    23,
+    47
+   ]
+  },
+  {
+   "q": "What is the normal order of conduction through the heart?",
+   "options": [
+    "SA node, bundle branches, AV node, AV bundle, Purkinje fibers",
+    "AV node, SA node, AV bundle, bundle branches, Purkinje fibers",
+    "SA node, AV bundle, AV node, Purkinje fibers, bundle branches",
+    "SA node, AV node, AV bundle, bundle branches, Purkinje fibers"
+   ],
+   "answer": 3,
+   "explain": "The SA node paces, impulses cross internodal pathways to the AV node, then the AV bundle, right and left bundle branches, and Purkinje fibers.",
+   "focus": [
+    "sa",
+    "av",
+    "his",
+    "rbb",
+    "lbb",
+    "purk"
+   ],
+   "turn": 20,
+   "pages": [
+    64,
+    66,
+    67
+   ]
+  },
+  {
+   "q": "Where is the apex beat palpated, and where is the mitral valve best heard?",
+   "options": [
+    "Right 2nd intercostal space",
+    "Left 3rd intercostal space at the sternum",
+    "Left 2nd intercostal space",
+    "Left 5th intercostal space, midclavicular line"
+   ],
+   "answer": 3,
+   "explain": "The apex points anteriorly, inferiorly and to the left: left 5th intercostal space, midclavicular line.",
+   "focus": [
+    "apex"
+   ],
+   "turn": 95,
+   "pages": [
+    16,
+    47
+   ]
+  },
+  {
+   "q": "What do the papillary muscles and chordae tendineae prevent?",
+   "options": [
+    "Opening of the aortic valve",
+    "Closure of the semilunar valves",
+    "Filling of the atria",
+    "Prolapse of the AV valve cusps into the atrium"
+   ],
+   "answer": 3,
+   "explain": "Papillary muscles contract to hold the AV valve cusps closed. Semilunar valves have no papillary muscles or chordae tendineae.",
+   "focus": [
+    "chord",
+    "apm",
+    "ppm"
+   ],
+   "turn": 60,
+   "pages": [
+    37,
+    38,
+    39
+   ]
+  },
+  {
+   "q": "Which pin marks the great cardiac vein?",
+   "options": [
+    "Great cardiac vein",
+    "Middle cardiac vein",
+    "Small cardiac vein",
+    "Coronary sinus"
+   ],
+   "answer": 0,
+   "explain": "Great cardiac vein: drains the anterior heart and runs with the anterior interventricular artery (LAD).",
+   "focus": [
+    "gcv"
+   ],
+   "turn": 60,
+   "pins": [
+    "gcv",
+    "mcv",
+    "scv",
+    "cs"
+   ],
+   "pages": [
+    60,
+    61
+   ]
+  },
+  {
+   "q": "Which pin marks the diagonal branch?",
+   "options": [
+    "Right marginal",
+    "Diagonal branch",
+    "Left marginal",
+    "Anterior interventricular (LAD)"
+   ],
+   "answer": 1,
+   "explain": "The diagonal branch crosses the anterior LV. In some people it comes off the circumflex, in others off the anterior interventricular artery.",
+   "focus": [
+    "diag"
+   ],
+   "turn": 10,
+   "pins": [
+    "rmarg",
+    "diag",
+    "lmarg",
+    "lad"
+   ],
+   "pages": [
+    50,
+    54,
+    55
+   ]
+  },
+  {
+   "q": "Which of these is NOT a branch of the right coronary artery?",
+   "options": [
+    "Circumflex artery",
+    "Branch to the SA node",
+    "Right marginal artery",
+    "Posterior interventricular artery"
+   ],
+   "answer": 0,
+   "explain": "The circumflex comes off the left coronary artery. The RCA gives the SA nodal branch, right marginal and posterior interventricular arteries.",
+   "focus": [
+    "lcx"
+   ],
+   "turn": 40,
+   "pages": [
+    51,
+    54
+   ]
+  },
+  {
+   "q": "Why is the left ventricular wall so much thicker than the right?",
+   "options": [
+    "It receives deoxygenated blood",
+    "It contains the moderator band",
+    "It forms most of the anterior surface",
+    "It pumps into the systemic circuit at 100 to 140 mmHg"
+   ],
+   "answer": 3,
+   "explain": "The LV pumps to the whole body at 100 to 140 mmHg. The RV pumps only through the lungs at 15 to 30 mmHg, so it has a thin wall.",
+   "focus": [
+    "lv",
+    "mv"
+   ],
+   "turn": 60,
+   "pages": [
+    30
+   ]
+  },
+  {
+   "q": "Which pin marks the remnant of the foramen ovale?",
+   "options": [
+    "Fossa ovalis",
+    "Crista terminalis",
+    "Coronary sinus",
+    "Moderator band"
+   ],
+   "answer": 0,
+   "explain": "Fossa ovalis: a depression in the interatrial septum, left behind by the foramen ovale, the fetal shunt that bypassed the lungs.",
+   "focus": [
+    "fo"
+   ],
+   "turn": -40,
+   "pins": [
+    "fo",
+    "crista",
+    "cs",
+    "mod"
+   ],
+   "pages": [
+    19,
+    20,
+    21
+   ]
+  },
+  {
+   "q": "Which pin marks the coronary sinus?",
+   "options": [
+    "Great cardiac vein",
+    "Middle cardiac vein",
+    "Small cardiac vein",
+    "Coronary sinus"
+   ],
+   "answer": 3,
+   "explain": "The great, middle and small cardiac veins lead to the coronary sinus, which empties into the right atrium.",
+   "focus": [
+    "cs"
+   ],
+   "turn": 150,
+   "pins": [
+    "gcv",
+    "mcv",
+    "scv",
+    "cs"
+   ],
+   "pages": [
+    60,
+    61,
+    62
+   ]
+  },
+  {
+   "q": "Which pin marks the ligamentum arteriosum?",
+   "options": [
+    "Left pulmonary artery",
+    "Ligamentum arteriosum",
+    "Left subclavian artery",
+    "Pulmonary trunk"
+   ],
+   "answer": 1,
+   "explain": "Ligamentum arteriosum: remnant of the ductus arteriosus, connecting the pulmonary trunk to the aortic arch. In the newborn it anchors and supports them.",
+   "focus": [
+    "lig"
+   ],
+   "turn": 35,
+   "pins": [
+    "lpa",
+    "lig",
+    "lsa",
+    "pt"
+   ],
+   "pages": [
+    21,
+    25
+   ]
+  },
+  {
+   "q": "The fibrous pericardium is continuous with which structure?",
+   "options": [
+    "Manubrium",
+    "Central tendon of the diaphragm",
+    "Xiphoid process",
+    "Left phrenic nerve"
+   ],
+   "answer": 1,
+   "explain": "Fibrous pericardium: tough outer layer, attached to the base of the heart and continuous with the central tendon of the diaphragm.",
+   "focus": [
+    "vm",
+    "ra",
+    "la"
+   ],
+   "turn": 10,
+   "pages": [
+    8
+   ]
+  },
+  {
+   "q": "Which pin marks the heart's pacemaker?",
+   "options": [
+    "Purkinje fibers",
+    "AV bundle (of His)",
+    "AV node",
+    "SA node"
+   ],
+   "answer": 3,
+   "explain": "SA node: the cardiac pacemaker in the superior posterior wall of the right atrium; it sets the heart rate.",
+   "focus": [
+    "sa"
+   ],
+   "turn": -40,
+   "pins": [
+    "purk",
+    "his",
+    "av",
+    "sa"
+   ],
+   "pages": [
+    64,
+    67
+   ]
+  },
+  {
+   "q": "Which pin marks the right coronary artery?",
+   "options": [
+    "Anterior interventricular (LAD)",
+    "Right coronary artery",
+    "Circumflex artery",
+    "Posterior interventricular"
+   ],
+   "answer": 1,
+   "explain": "The RCA runs in the right coronary sulcus between the right auricle and the right ventricle.",
+   "focus": [
+    "rca"
+   ],
+   "turn": -30,
+   "pins": [
+    "lad",
+    "rca",
+    "lcx",
+    "pda"
+   ],
+   "pages": [
+    50,
+    51
+   ]
+  },
+  {
+   "q": "Which statement about vagal innervation of the heart is correct?",
+   "options": [
+    "The vagus increases heart rate",
+    "The right vagus tends to supply the SA node and the left vagus the AV node",
+    "The vagus supplies the ventricular myocardium directly",
+    "The left vagus tends to supply the SA node and the right vagus the AV node"
+   ],
+   "answer": 1,
+   "explain": "Vagal (parasympathetic) fibers supply only the SA and AV nodes and slow the heart: right vagus tends to the SA node, left vagus to the AV node.",
+   "focus": [
+    "sa",
+    "av"
+   ],
+   "turn": -40,
+   "pages": [
+    65,
+    69
+   ]
+  },
+  {
+   "q": "When does the myocardium receive its coronary blood flow?",
+   "options": [
+    "Only during inspiration",
+    "Only during exercise",
+    "During diastole (relaxation)",
+    "During systole (contraction)"
+   ],
+   "answer": 2,
+   "explain": "The heart can only be fed during diastole, when the ventricles relax. Coronary arteries arise from the base of the ascending aorta.",
+   "focus": [
+    "rca",
+    "lmca"
+   ],
+   "turn": 0,
+   "pages": [
+    49,
+    62
+   ]
+  },
+  {
+   "q": "Which pin marks the aortic valve?",
+   "options": [
+    "Tricuspid valve",
+    "Mitral valve",
+    "Pulmonary valve",
+    "Aortic valve"
+   ],
+   "answer": 3,
+   "explain": "Aortic valve: semilunar valve from the left ventricle into the ascending aorta. Heard loudest at the right 2nd intercostal space.",
+   "focus": [
+    "aval"
+   ],
+   "turn": 190,
+   "pins": [
+    "tv",
+    "mv",
+    "pval",
+    "aval"
+   ],
+   "pages": [
+    26,
+    28,
+    47
+   ]
+  },
+  {
+   "q": "Which pin marks the moderator band?",
+   "options": [
+    "Chordae tendineae",
+    "Moderator band",
+    "Anterolateral papillary muscle",
+    "Posteromedial papillary muscle"
+   ],
+   "answer": 1,
+   "explain": "Moderator band (septomarginal trabecula): inferior interventricular septum to the anterior papillary muscle, in the right ventricle only.",
+   "focus": [
+    "mod"
+   ],
+   "turn": 15,
+   "pins": [
+    "chord",
+    "mod",
+    "apm",
+    "ppm"
+   ],
+   "pages": [
+    23,
+    24,
+    25
+   ]
+  },
+  {
+   "q": "Sympathetic stimulation of the heart, from spinal cord segments T1 to T5, does what?",
+   "options": [
+    "Decreases heart rate",
+    "Increases heart rate only",
+    "Increases heart rate (chronotropic) and force (inotropic)",
+    "Initiates the heartbeat"
+   ],
+   "answer": 2,
+   "explain": "Sympathetic fibers go to the nodes and the myocardium: chronotropic (rate) and inotropic (power). The autonomic system does not initiate the beat.",
+   "focus": [
+    "sa",
+    "av"
+   ],
+   "turn": -40,
+   "pages": [
+    65,
+    70
+   ]
+  },
+  {
+   "q": "A patient has a right coronary artery occlusion. Which complication is most likely?",
+   "options": [
+    "Aortic regurgitation",
+    "Dysrhythmia from SA or AV node ischemia",
+    "Pericardial effusion",
+    "Pulmonary stenosis"
+   ],
+   "answer": 1,
+   "explain": "The RCA supplies the SA node (about 60%) and the AV node (about 90%), so a right coronary infarct is more likely to cause dysrhythmias.",
+   "focus": [
+    "rca",
+    "sna",
+    "sa",
+    "av"
+   ],
+   "turn": -30,
+   "pages": [
+    50,
+    52
+   ]
+  }
+ ]
+}

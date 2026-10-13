@@ -1,0 +1,575 @@
+{
+ "series": "Abdomen 2 · Stomach & Small Intestine",
+ "model": "ab2-stomach-si",
+ "accent": "#ffb703",
+ "questions": [
+  {
+   "q": "Which part of the stomach is the thickening of circular muscle that acts as a sphincter around the pyloric orifice?",
+   "options": [
+    "Cardia",
+    "Fundus",
+    "Body",
+    "Pylorus"
+   ],
+   "answer": 3,
+   "explain": "The pylorus is the sphincter around the pyloric orifice. On your slide the funnel-shaped distal region is the pyloric part (pyloric antrum, pyloric canal and pylorus). The cardia surrounds the cardial orifice, the fundus is the dilated superior part, and the body is the main part.",
+   "focus": [
+    "pylorus"
+   ],
+   "turn": 0,
+   "pins": [
+    "cardia",
+    "fundus",
+    "body",
+    "pylorus"
+   ],
+   "pages": [
+    35
+   ]
+  },
+  {
+   "q": "Which structure is the short, concave border of the stomach that gives attachment to the lesser omentum?",
+   "options": [
+    "Greater curvature",
+    "Lesser curvature",
+    "Fundus",
+    "Pylorus"
+   ],
+   "answer": 1,
+   "explain": "The lesser curvature is short and concave and the lesser omentum extends from it. The greater curvature is long and convex.",
+   "focus": [
+    "lcurv"
+   ],
+   "turn": 0,
+   "pins": [
+    "gcurv",
+    "lcurv",
+    "fundus",
+    "pylorus"
+   ],
+   "pages": [
+    34
+   ]
+  },
+  {
+   "q": "A surgeon identifies the dilated, superior part of the stomach that sits under the left dome of the diaphragm. Which pin marks it?",
+   "options": [
+    "Cardia",
+    "Fundus",
+    "Body",
+    "Pyloric antrum"
+   ],
+   "answer": 1,
+   "explain": "The fundus is the dilated superior part, reaching from the left dome of the diaphragm to the horizontal plane of the cardial orifice.",
+   "focus": [
+    "fundus"
+   ],
+   "turn": 0,
+   "pins": [
+    "cardia",
+    "fundus",
+    "body",
+    "antrum"
+   ],
+   "pages": [
+    35
+   ]
+  },
+  {
+   "q": "Which celiac branch gives the left gastroepiploic artery to the superior greater curvature of the stomach?",
+   "options": [
+    "Splenic artery",
+    "Left gastric artery",
+    "Gastroduodenal artery",
+    "Superior mesenteric artery"
+   ],
+   "answer": 0,
+   "explain": "The splenic artery gives the left gastroepiploic. The gastroduodenal gives the right gastroepiploic. The SMA is not a celiac branch.",
+   "focus": [
+    "splen",
+    "lgepi"
+   ],
+   "turn": 0,
+   "pins": [
+    "splen",
+    "lgast",
+    "gda",
+    "sma"
+   ],
+   "pages": [
+    41,
+    44
+   ],
+   "focus_before": [
+    "dim"
+   ]
+  },
+  {
+   "q": "Which artery gives rise to the superior pancreaticoduodenal artery?",
+   "options": [
+    "Gastroduodenal artery",
+    "Superior mesenteric artery",
+    "Splenic artery",
+    "Left gastric artery"
+   ],
+   "answer": 0,
+   "explain": "The gastroduodenal gives the superior pancreaticoduodenal; the SMA gives the inferior one. They anastomose, linking celiac and SMA.",
+   "focus": [
+    "gda",
+    "spda"
+   ],
+   "turn": -70,
+   "pins": [
+    "gda",
+    "sma",
+    "splen",
+    "lgast"
+   ],
+   "pages": [
+    69,
+    70
+   ],
+   "focus_before": [
+    "dim"
+   ]
+  },
+  {
+   "q": "Which part of the duodenum crosses anterior to the IVC and aorta and posterior to the SMA and SMV, at about L3?",
+   "options": [
+    "Superior (1st) part",
+    "Descending (2nd) part",
+    "Inferior (3rd) part",
+    "Ascending (4th) part"
+   ],
+   "answer": 2,
+   "explain": "The inferior (horizontal) part lies at L3 and passes between the aorta/IVC behind and the SMA/SMV in front.",
+   "focus": [
+    "d3",
+    "sma",
+    "smv"
+   ],
+   "turn": -60,
+   "pins": [
+    "d1",
+    "d2",
+    "d3",
+    "d4"
+   ],
+   "pages": [
+    66
+   ]
+  },
+  {
+   "q": "Where do the bile duct and pancreatic duct enter the duodenum at the hepatopancreatic ampulla?",
+   "options": [
+    "Superior (1st) part",
+    "Descending (2nd) part",
+    "Inferior (3rd) part",
+    "Ascending (4th) part"
+   ],
+   "answer": 1,
+   "explain": "Both ducts enter the posteromedial wall of the descending (2nd) part at the hepatopancreatic ampulla (of Vater).",
+   "focus": [
+    "d2",
+    "ampulla"
+   ],
+   "turn": -60,
+   "pins": [
+    "d1",
+    "d2",
+    "d3",
+    "d4"
+   ],
+   "pages": [
+    66,
+    67,
+    68
+   ]
+  },
+  {
+   "q": "Which vein receives the left gastroepiploic and the short gastric veins?",
+   "options": [
+    "Splenic vein",
+    "Superior mesenteric vein",
+    "Inferior mesenteric vein",
+    "Hepatic portal vein"
+   ],
+   "answer": 0,
+   "explain": "Left gastro-omental (gastroepiploic) and short gastric veins drain to the splenic vein. The right gastroepiploic drains to the SMV.",
+   "focus": [
+    "splv",
+    "lgev",
+    "sgv"
+   ],
+   "turn": 0,
+   "pins": [
+    "splv",
+    "smv",
+    "imv",
+    "portal"
+   ],
+   "pages": [
+    47,
+    48
+   ],
+   "focus_before": [
+    "dim"
+   ]
+  },
+  {
+   "q": "Which vein unites with the splenic vein to form the hepatic portal vein?",
+   "options": [
+    "Superior mesenteric vein",
+    "Inferior mesenteric vein",
+    "Left gastric vein",
+    "Right gastroepiploic vein"
+   ],
+   "answer": 0,
+   "explain": "The portal vein forms from the confluence of the superior mesenteric vein and the splenic vein behind the neck of the pancreas.",
+   "focus": [
+    "smv",
+    "splv",
+    "portal"
+   ],
+   "turn": 0,
+   "pins": [
+    "smv",
+    "imv",
+    "lgv",
+    "rgev"
+   ],
+   "pages": [
+    45,
+    78
+   ],
+   "focus_before": [
+    "dim"
+   ]
+  },
+  {
+   "q": "Peyer patches are most prominent in which segment of the small intestine?",
+   "options": [
+    "Duodenum",
+    "Jejunum",
+    "Ileum"
+   ],
+   "answer": 2,
+   "explain": "Peyer patches (aggregated lymphoid nodules) are prominent in the ileum, which has fewer plicae and ends at the ileocecal junction. The jejunum has the prominent plicae circulares.",
+   "focus": [
+    "ile"
+   ],
+   "turn": 160,
+   "pins": [
+    "d2",
+    "jej",
+    "ile"
+   ],
+   "pages": [
+    84,
+    85
+   ]
+  },
+  {
+   "q": "Which nerve supplies the stomach with parasympathetic fibers?",
+   "options": [
+    "Vagus nerve (CN X)",
+    "Greater splanchnic nerve",
+    "Lesser splanchnic nerve",
+    "Celiac ganglion"
+   ],
+   "answer": 0,
+   "explain": "The vagus nerve (CN X) is the parasympathetic supply. Sympathetics come from the greater splanchnic nerves via the celiac plexus.",
+   "focus": [
+    "vagus"
+   ],
+   "turn": 20,
+   "pins": [
+    "vagus",
+    "gsn",
+    "lsn",
+    "cgang"
+   ],
+   "pages": [
+    49,
+    12
+   ],
+   "focus_before": [
+    "dim"
+   ]
+  },
+  {
+   "q": "The straight arteries that arise from the arterial arcades and run to the bowel wall are called what?",
+   "options": [
+    "Vasa recta",
+    "Arterial arcades",
+    "Jejunal arteries",
+    "Ileal arteries"
+   ],
+   "answer": 0,
+   "explain": "Jejunal and ileal branches of the SMA join in loops (arcades), and the loops give rise to the straight arteries, the vasa recta.",
+   "focus": [
+    "vasa",
+    "arc"
+   ],
+   "turn": 160,
+   "pins": [
+    "vasa",
+    "arc",
+    "jart",
+    "iart"
+   ],
+   "pages": [
+    75,
+    77
+   ],
+   "focus_before": [
+    "dim"
+   ]
+  },
+  {
+   "q": "Which artery supplies the midgut?",
+   "options": [
+    "Celiac trunk",
+    "Superior mesenteric artery",
+    "Gastroduodenal artery",
+    "Splenic artery"
+   ],
+   "answer": 1,
+   "explain": "The SMA (with the SMV) supplies the midgut. The celiac trunk feeds the foregut; the IMA feeds the hindgut.",
+   "focus": [
+    "sma"
+   ],
+   "turn": 0,
+   "pins": [
+    "celiac",
+    "sma",
+    "gda",
+    "splen"
+   ],
+   "pages": [
+    12
+   ],
+   "focus_before": [
+    "dim"
+   ]
+  },
+  {
+   "q": "A patient with cirrhosis vomits blood. Endoscopy shows dilated veins in the distal esophagus. Which vein normally drains the abdominal esophagus into the portal circulation?",
+   "options": [
+    "Left gastric vein",
+    "Azygos vein",
+    "Inferior phrenic vein",
+    "Right gastroepiploic vein"
+   ],
+   "answer": 0,
+   "explain": "The abdominal esophagus drains via the left gastric vein to the portal system. With portal hypertension the connections to the systemic veins swell into varices.",
+   "focus": [
+    "lgv",
+    "esov"
+   ],
+   "turn": 20,
+   "pages": [
+    27,
+    28
+   ]
+  },
+  {
+   "q": "A patient has dull, poorly localized pain around the umbilicus from distended small bowel. Pain from which embryonic gut region is felt in the umbilical region?",
+   "options": [
+    "Foregut",
+    "Midgut",
+    "Hindgut",
+    "Pharyngeal gut"
+   ],
+   "answer": 1,
+   "explain": "Visceral pain from the midgut is felt in the umbilical region. Foregut pain is epigastric and hindgut pain is pubic.",
+   "focus": [
+    "jej",
+    "ile"
+   ],
+   "turn": 10,
+   "pages": [
+    10
+   ]
+  },
+  {
+   "q": "Which organ is retroperitoneal?",
+   "options": [
+    "Stomach",
+    "Spleen",
+    "Pancreas",
+    "Jejunum"
+   ],
+   "answer": 2,
+   "explain": "The pancreas is retroperitoneal (SAD PUCKER). The stomach, spleen and jejunum are intraperitoneal.",
+   "focus": [
+    "panc",
+    "aorta",
+    "ivc"
+   ],
+   "turn": -30,
+   "pages": [
+    13,
+    18
+   ]
+  },
+  {
+   "q": "Which cell of the gastric gland secretes intrinsic factor?",
+   "options": [
+    "Chief cell",
+    "Parietal cell",
+    "G cell",
+    "Mucous neck cell"
+   ],
+   "answer": 1,
+   "explain": "Parietal cells secrete HCl, intrinsic factor and ghrelin. Chief cells make pepsinogen and gastric lipase.",
+   "focus": [
+    "body",
+    "fundus"
+   ],
+   "turn": 0,
+   "pages": [
+    52,
+    54
+   ]
+  },
+  {
+   "q": "After a total gastrectomy a patient develops vitamin B12 deficiency. Loss of which secretion explains this?",
+   "options": [
+    "Intrinsic factor from parietal cells",
+    "Pepsinogen from chief cells",
+    "Gastrin from G cells",
+    "Gastric lipase from chief cells"
+   ],
+   "answer": 0,
+   "explain": "Intrinsic factor, made by parietal cells, is essential for B12 absorption in the distal small intestine (ileum).",
+   "focus": [
+    "body",
+    "fundus",
+    "ile"
+   ],
+   "turn": 0,
+   "pages": [
+    54
+   ]
+  },
+  {
+   "q": "Which cell secretes gastrin, which promotes HCl secretion from parietal cells?",
+   "options": [
+    "G cell",
+    "Chief cell",
+    "Mucous neck cell",
+    "Enterocyte"
+   ],
+   "answer": 0,
+   "explain": "G cells secrete gastrin and are found in pyloric glands (antrum).",
+   "focus": [
+    "antrum"
+   ],
+   "turn": 0,
+   "pages": [
+    51,
+    52
+   ]
+  },
+  {
+   "q": "Which peritoneal structure extends from the greater curvature of the stomach?",
+   "options": [
+    "Greater omentum",
+    "Lesser omentum",
+    "Falciform ligament",
+    "Mesentery"
+   ],
+   "answer": 0,
+   "explain": "The greater omentum hangs from the greater curvature. The lesser omentum extends from the lesser curvature.",
+   "focus": [
+    "gcurv"
+   ],
+   "turn": 0,
+   "pages": [
+    34,
+    17
+   ]
+  },
+  {
+   "q": "In the resting state, the pyloric sphincter is",
+   "options": [
+    "Tonically contracted",
+    "Fully relaxed",
+    "Contracted only during peristalsis",
+    "Absent until digestion begins"
+   ],
+   "answer": 0,
+   "explain": "The pylorus is normally tonically contracted, so it is closed. Intermittent peristalsis pushes chyme through it into the duodenum.",
+   "focus": [
+    "pylorus",
+    "canal"
+   ],
+   "turn": 0,
+   "pages": [
+    37,
+    38
+   ]
+  },
+  {
+   "q": "Which structure suspends the duodenojejunal flexure?",
+   "options": [
+    "Ligament of Treitz",
+    "Hepatoduodenal ligament",
+    "Gastrosplenic ligament",
+    "Falciform ligament"
+   ],
+   "answer": 0,
+   "explain": "The ligament of Treitz (suspensory ligament of the duodenum) suspends the duodenojejunal flexure.",
+   "focus": [
+    "treitz",
+    "d4"
+   ],
+   "turn": -60,
+   "pages": [
+    64,
+    65
+   ]
+  },
+  {
+   "q": "At L3 the inferior part of the duodenum passes behind which vessels?",
+   "options": [
+    "SMA and SMV",
+    "IVC and aorta",
+    "Renal veins",
+    "Portal vein and hepatic artery"
+   ],
+   "answer": 0,
+   "explain": "The inferior part crosses anterior to the IVC and aorta and posterior to the SMA and SMV.",
+   "focus": [
+    "d3",
+    "sma",
+    "smv"
+   ],
+   "turn": -60,
+   "pages": [
+    66
+   ]
+  },
+  {
+   "q": "The hepatic portal vein enters the liver within which ligament?",
+   "options": [
+    "Hepatoduodenal ligament",
+    "Falciform ligament",
+    "Gastrosplenic ligament",
+    "Splenorenal ligament"
+   ],
+   "answer": 0,
+   "explain": "The portal vein enters the liver in the hepatoduodenal ligament with the proper hepatic artery and common bile duct.",
+   "focus": [
+    "portal",
+    "hepp",
+    "bduct"
+   ],
+   "turn": 0,
+   "pages": [
+    45
+   ]
+  }
+ ]
+}

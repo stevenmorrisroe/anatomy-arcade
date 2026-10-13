@@ -1,0 +1,397 @@
+[
+ {
+  "slug": "thorax1-breast",
+  "series": "Thorax 1 \u00b7 Regional & Breast",
+  "accent": "#c77dff",
+  "count": 25,
+  "ids": [
+   "bfd0165c",
+   "b6384bf8",
+   "6e256583",
+   "e6fb3fbe",
+   "43ea3444",
+   "3a053470",
+   "a457f36a",
+   "f98ca30e",
+   "8a731e49",
+   "6d132b55",
+   "5939e860",
+   "f8041507",
+   "79952c10",
+   "3b28aa25",
+   "dc8d266f",
+   "ec01fffb",
+   "00420462",
+   "72d24c15",
+   "1aa31535",
+   "2facf64f",
+   "ea831657",
+   "c73abbf5",
+   "3d6d1294",
+   "69c32e61",
+   "14fa300f"
+  ],
+  "videos": [
+   {
+    "title": "Sternum, ribs and the costal groove",
+    "src": "videos/thorax1-breast/part1.mp4",
+    "poster": "videos/thorax1-breast/part1.jpg"
+   },
+   {
+    "title": "Mediastinum and diaphragm",
+    "src": "videos/thorax1-breast/part2.mp4",
+    "poster": "videos/thorax1-breast/part2.jpg"
+   },
+   {
+    "title": "The breast, blood supply and lymphatics",
+    "src": "videos/thorax1-breast/part3.mp4",
+    "poster": "videos/thorax1-breast/part3.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "thorax2-lungs",
+  "series": "Thorax 2 \u00b7 Lungs",
+  "accent": "#5aa9e6",
+  "count": 25,
+  "ids": [
+   "242ec94b",
+   "97351d98",
+   "a216900a",
+   "14f5e7e3",
+   "64878f30",
+   "3aead4c9",
+   "d3905385",
+   "8847d976",
+   "e12e5fee",
+   "3082ef2d",
+   "c5767a12",
+   "a791fbe1",
+   "4aea45a6",
+   "360bd8b4",
+   "8dc471b6",
+   "1af8e1c9",
+   "a4ada5b3",
+   "27e55fbe",
+   "582f3cf8",
+   "77efa43d",
+   "f6fecd6c",
+   "3634f36c",
+   "3d74e061",
+   "44f08277",
+   "244f6700"
+  ],
+  "videos": [
+   {
+    "title": "Pleura, recess and the lobes",
+    "src": "videos/thorax2-lungs/part1.mp4",
+    "poster": "videos/thorax2-lungs/part1.jpg"
+   },
+   {
+    "title": "Bronchial tree, hilum and relations",
+    "src": "videos/thorax2-lungs/part2.mp4",
+    "poster": "videos/thorax2-lungs/part2.jpg"
+   },
+   {
+    "title": "Bronchioles to alveoli",
+    "src": "videos/thorax2-lungs/part3.mp4",
+    "poster": "videos/thorax2-lungs/part3.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "thorax3-heart",
+  "series": "Thorax 3 \u00b7 Heart",
+  "accent": "#e2678a",
+  "count": 25,
+  "ids": [
+   "ad64baa6",
+   "7284f81e",
+   "ed79e604",
+   "6fadc3f5",
+   "bf598b7d",
+   "40552327",
+   "15ce97fe",
+   "cc41c37d",
+   "e6c44d26",
+   "e2476dd7",
+   "763784f3",
+   "16bb7ffd",
+   "4333aa0b",
+   "445562ba",
+   "553f1760",
+   "98bb76ef",
+   "4b633764",
+   "e78db801",
+   "352da408",
+   "e2584d24",
+   "c8636dda",
+   "93c35d7b",
+   "4900b834",
+   "5f99258b",
+   "fa59e134"
+  ],
+  "videos": [
+   {
+    "title": "Pericardium, position, right atrium",
+    "src": "videos/thorax3-heart/part1.mp4",
+    "poster": "videos/thorax3-heart/part1.jpg"
+   },
+   {
+    "title": "Fetal remnants, ventricles, valves",
+    "src": "videos/thorax3-heart/part2.mp4",
+    "poster": "videos/thorax3-heart/part2.jpg"
+   },
+   {
+    "title": "Coronaries, veins, conduction",
+    "src": "videos/thorax3-heart/part3.mp4",
+    "poster": "videos/thorax3-heart/part3.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "neck1-regional",
+  "series": "Neck 1 \u00b7 Regional",
+  "accent": "#2ec4b6",
+  "count": 23,
+  "ids": [
+   "20a38299",
+   "9be88cf2",
+   "799adf3e",
+   "6b961c3c",
+   "a11acabc",
+   "5d9f6329",
+   "296210fd",
+   "6783b7e3",
+   "6fb784e4",
+   "d59fb1d9",
+   "6ebeeeea",
+   "b91a854e",
+   "34f2c172",
+   "63fca920",
+   "bbe2748e",
+   "4bada09a",
+   "a6f34944",
+   "5c8bbf92",
+   "46a6abcb",
+   "c67c66dc",
+   "97d70fd8",
+   "a6f2746e",
+   "ceff0019"
+  ],
+  "videos": [
+   {
+    "title": "SCM, landmarks, veins, fascia",
+    "src": "videos/neck1-regional/part1.mp4",
+    "poster": "videos/neck1-regional/part1.jpg"
+   },
+   {
+    "title": "Posterior triangle, scalenes, subclavian branches",
+    "src": "videos/neck1-regional/part2.mp4",
+    "poster": "videos/neck1-regional/part2.jpg"
+   },
+   {
+    "title": "Carotids, anterior triangle, strap muscles",
+    "src": "videos/neck1-regional/part3.mp4",
+    "poster": "videos/neck1-regional/part3.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "neck2-throat",
+  "series": "Neck 2 \u00b7 Throat",
+  "accent": "#ff9f1c",
+  "count": 26,
+  "ids": [
+   "dc1db8e9",
+   "d5c3c1e2",
+   "7d6c65ee",
+   "0f24d647",
+   "a940c7a9",
+   "54b3701a",
+   "15c1f738",
+   "a216900a",
+   "31a76a5d",
+   "19ab74fc",
+   "140970a3",
+   "6802d4b3",
+   "e0e90847",
+   "58468e63",
+   "d4b7a37e",
+   "d2d15efe",
+   "4eef830d",
+   "2d80ed99",
+   "7a4a65a8",
+   "f0a868ed",
+   "bca20881",
+   "be9ac87a",
+   "398e2923",
+   "8a2735ab",
+   "9167c41e",
+   "4ee40527"
+  ],
+  "videos": [
+   {
+    "title": "The pharynx",
+    "src": "videos/neck2-throat/part1.mp4",
+    "poster": "videos/neck2-throat/part1.jpg"
+   },
+   {
+    "title": "The larynx",
+    "src": "videos/neck2-throat/part2.mp4",
+    "poster": "videos/neck2-throat/part2.jpg"
+   },
+   {
+    "title": "Trachea, thyroid, parathyroids",
+    "src": "videos/neck2-throat/part3.mp4",
+    "poster": "videos/neck2-throat/part3.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "ab1-walls",
+  "series": "Abdomen 1 \u00b7 Walls",
+  "accent": "#ff6b6b",
+  "count": 24,
+  "ids": [
+   "44e7c384",
+   "29229c32",
+   "34805b51",
+   "5603fa4d",
+   "d6922e38",
+   "f84da8d6",
+   "c5a9e4cc",
+   "7810cdd7",
+   "61702a65",
+   "434961f1",
+   "1b858c22",
+   "d29544d6",
+   "3621ba25",
+   "715267d3",
+   "ea9d9b85",
+   "f7958ecb",
+   "488c01b9",
+   "2f58d4b0",
+   "9947b7c6",
+   "f3d2d54c",
+   "3116f02c",
+   "90497d18",
+   "03ce4f62",
+   "21fea581"
+  ],
+  "videos": [
+   {
+    "title": "Borders and the 10 layers",
+    "src": "videos/ab1-walls/part1.mp4",
+    "poster": "videos/ab1-walls/part1.jpg"
+   },
+   {
+    "title": "Rectus, sheath, actions, epigastric vessels",
+    "src": "videos/ab1-walls/part2.mp4",
+    "poster": "videos/ab1-walls/part2.jpg"
+   },
+   {
+    "title": "Fossae, inguinal canal, posterior wall",
+    "src": "videos/ab1-walls/part3.mp4",
+    "poster": "videos/ab1-walls/part3.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "ab2-stomach-si",
+  "series": "Abdomen 2 \u00b7 Stomach & Small Intestine",
+  "accent": "#ffb703",
+  "count": 24,
+  "ids": [
+   "c15f84c9",
+   "6cb77cba",
+   "b88fe76d",
+   "628d4b88",
+   "63906068",
+   "13cca120",
+   "ecaae994",
+   "f213941f",
+   "d9dfdb5e",
+   "e11b1b45",
+   "5d435051",
+   "7606231b",
+   "33a69eb9",
+   "d78a821d",
+   "8035a87f",
+   "cbba353f",
+   "0ac96074",
+   "0434e695",
+   "b5384bb7",
+   "891d076f",
+   "b836149d",
+   "9111a96b",
+   "7a3bdda7",
+   "19966f07"
+  ],
+  "videos": [
+   {
+    "title": "Peritoneum and gut supply",
+    "src": "videos/ab2-stomach-si/part1.mp4",
+    "poster": "videos/ab2-stomach-si/part1.jpg"
+   },
+   {
+    "title": "Esophagus and stomach",
+    "src": "videos/ab2-stomach-si/part2.mp4",
+    "poster": "videos/ab2-stomach-si/part2.jpg"
+   },
+   {
+    "title": "Stomach veins, duodenum and small bowel",
+    "src": "videos/ab2-stomach-si/part3.mp4",
+    "poster": "videos/ab2-stomach-si/part3.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "ab3-colon",
+  "series": "Abdomen 3 \u00b7 Colon & Large Intestine",
+  "accent": "#8ac926",
+  "count": 23,
+  "ids": [
+   "d0062b61",
+   "924081af",
+   "11ccba31",
+   "9c77540a",
+   "0d693e3a",
+   "dafb952f",
+   "f80dad58",
+   "2c3e042f",
+   "8604576e",
+   "03fc1b65",
+   "738c50eb",
+   "0163f88f",
+   "1e950c7a",
+   "a43599ba",
+   "ed3afb37",
+   "685de823",
+   "c77b0100",
+   "2b6d7635",
+   "8e8357a5",
+   "2d8ecfd2",
+   "378d3d97",
+   "9fcc09bb",
+   "ebb81a46"
+  ],
+  "videos": [
+   {
+    "title": "Colon anatomy",
+    "src": "videos/ab3-colon/part1.mp4",
+    "poster": "videos/ab3-colon/part1.jpg"
+   },
+   {
+    "title": "Colon blood supply and the spleen",
+    "src": "videos/ab3-colon/part2.mp4",
+    "poster": "videos/ab3-colon/part2.jpg"
+   },
+   {
+    "title": "Pancreas and liver",
+    "src": "videos/ab3-colon/part3.mp4",
+    "poster": "videos/ab3-colon/part3.jpg"
+   }
+  ]
+ }
+]
